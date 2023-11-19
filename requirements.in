@@ -1,0 +1,6 @@
+pip-tools
+petl
+tqdm
+typer
+tomli >= 1.1.0 ; python_version < "3.11"
+git+https://github.com/fjuniorr/flowmapper.git@notebooks-logic
