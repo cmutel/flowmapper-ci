@@ -1,0 +1,21 @@
+Flowable,CASNo,Formula,Synonyms,Unit,Class,ExternalReference,Preferred,Context,FlowUUID,AltUnit,V12,Second CAS
+Butene,025167-67-3,"","",kg,chemical,,,"air/low population density, long-term",767a703f-842a-4b30-87f5-ca62b338a51d,,,71057-26-6; 23086-03-5; 18932-22-4; 61788-35-0; 9003-28-5; 25167-67-3; 106-98-9
+Butene,025167-67-3,"","",kg,chemical,,,air/lower stratosphere + upper troposphere,f2663c0c-3618-4095-b8d8-9c3b5c7097fb,,,71057-26-6; 23086-03-5; 18932-22-4; 61788-35-0; 9003-28-5; 25167-67-3; 106-98-9
+Butene,025167-67-3,"","",kg,chemical,,,air/non-urban air or from high stacks,deec5cec-4d8d-492a-9b0c-eab92dd55af8,,,71057-26-6; 23086-03-5; 18932-22-4; 61788-35-0; 9003-28-5; 25167-67-3; 106-98-9
+Butene,025167-67-3,"","",kg,chemical,,,air/unspecified,91f6386a-af2e-4bbb-a05c-62e4483b1bcf,,,71057-26-6; 23086-03-5; 18932-22-4; 61788-35-0; 9003-28-5; 25167-67-3; 106-98-9
+Butene,025167-67-3,"","",kg,chemical,,,air/urban air close to ground,53fc7ec9-1b3f-4d89-ade6-8ca2934c1695,,,71057-26-6; 23086-03-5; 18932-22-4; 61788-35-0; 9003-28-5; 25167-67-3; 106-98-9
+Butene,025167-67-3,"","",kg,chemical,,,water/ground-,8b36dc51-b9d4-4141-96d9-9183f6198a20,,,71057-26-6; 23086-03-5; 18932-22-4; 61788-35-0; 9003-28-5; 25167-67-3; 106-98-9
+Butene,025167-67-3,"","",kg,chemical,,,"water/ground-, long-term",1f96681c-1f2c-433e-8c60-45b66dc3ec01,,,71057-26-6; 23086-03-5; 18932-22-4; 61788-35-0; 9003-28-5; 25167-67-3; 106-98-9
+Butene,025167-67-3,"","",kg,chemical,,,water/ocean,c4c2bc7a-c7c2-4ace-9d25-152b25cb1a07,,,71057-26-6; 23086-03-5; 18932-22-4; 61788-35-0; 9003-28-5; 25167-67-3; 106-98-9
+Butene,025167-67-3,"","",kg,chemical,,,water/surface water,6ce302db-96b8-4a21-9237-050ecde39aee,,,71057-26-6; 23086-03-5; 18932-22-4; 61788-35-0; 9003-28-5; 25167-67-3; 106-98-9
+Butene,025167-67-3,"","",kg,chemical,,,water/unspecified,700969dc-4def-4093-98a0-adbb65771fcd,,,71057-26-6; 23086-03-5; 18932-22-4; 61788-35-0; 9003-28-5; 25167-67-3; 106-98-9
+"Calcium, in ground",007440-70-2,Ca,"",kg,geological,,1,natural resource/in ground,c8fc4197-7410-42f2-aeb4-c08c6a693992,,,""
+"Coal, hard, unspecified, in ground","","","",kg,fossil/nuclear,,,natural resource/in ground,b6d0042d-0ef8-49ed-9162-a07ff1ccf750,,,""
+Dimethyl malonate,000108-59-8,"","malonic acid dimethyl ester, propanedioic acid dimethyl ester",kg,chemical,,,"air/low population density, long-term",be910644-7322-4873-8fd2-b97b1bebe149,,,108-59-8
+Dimethyl malonate,000108-59-8,"","malonic acid dimethyl ester, propanedioic acid dimethyl ester",kg,chemical,,,air/lower stratosphere + upper troposphere,07798b07-13be-41f9-b754-5b389695cf78,,,108-59-8
+Dimethyl malonate,000108-59-8,"","malonic acid dimethyl ester, propanedioic acid dimethyl ester",kg,chemical,,,air/non-urban air or from high stacks,32bd196f-401c-4ece-bc45-a3b5ab7fd6fc,,,108-59-8
+Dimethyl malonate,000108-59-8,"","malonic acid dimethyl ester, propanedioic acid dimethyl ester",kg,chemical,,,air/unspecified,f5ce0b83-d178-4f50-b1cb-844091b7f0bc,,,108-59-8
+Dimethyl malonate,000108-59-8,"","malonic acid dimethyl ester, propanedioic acid dimethyl ester",kg,chemical,,,air/urban air close to ground,7ee1a767-185e-444b-913d-6acbfdbab3bd,,,108-59-8
+"Palladium, Pd 1.6E-6%, in mixed ore, in ground","	
+
+007440-05-3",Pd,"",kg,geological,,0,natural resource/in ground,669ab0eb-c020-4b98-bfe4-e0989013121a,,,""

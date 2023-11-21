@@ -1,0 +1,12 @@
+Flowable,CAS No,Formula,Synonyms,Unit,Class,Context,Flow UUID,Description
+Calcium,007440-70-2,Ca,Calcium,kg,Raw materials,Raw materials,C3FE30C1-BDF8-4869-9007-9F7DF1E41820,""
+Calcium carbonate,"","",Calcium carbonate,kg,Raw materials,Raw materials,2EE55BBB-A073-4708-A157-925562703E5C,""
+Calcium chloride,010043-52-4,"CaCl2 Synonyms: Calcium(II) chloride, Calcium dichloride",Calcium chloride,kg,Raw materials,Raw materials,5C512F9C-A606-49C7-B7B7-0E8D8101264E,""
+"Coal, 26.4 MJ per kg","","","Coal, 26.4 MJ per kg",kg,Raw materials,Raw materials,C0F2A644-3C69-4F02-B13A-029561B69A3E,Higher heating value (HHV): 27.8 MJ/kgLower heating value (LHV): 26.4 MJ/kg
+"Coal, 29.3 MJ per kg","","","Coal, 29.3 MJ per kg",kg,Raw materials,Raw materials,AE4A9855-8598-4363-B541-A56625F7BB63,Higher heating value (HHV): 30.8 MJ/kgLower heating value (LHV): 29.3 MJ/kg
+"Palladium, Pd 1.6E-6%, in mixed ore","","","Palladium, Pd 1.6E-6%, in mixed ore",kg,Raw materials,Raw materials,000B2709-B8E8-430A-94E6-14150AEAEDE9,""
+1-Butene,000106-98-9,"",1-Butene,kg,Airborne emissions,Airborne emissions,AB603099-4D48-400D-946B-BEBA34464080,Formula: C4H8 
+2-Butene,000107-01-7,C26H22ClF3N2O3 Synonyms: N-[2-Chloro-4-(trifluoromethyl)phenyl]-DL-valine(+)-cyano(3-phenoxyphenyl)methyl ester,2-Butene,kg,Airborne emissions,Airborne emissions,516273CA-ACDD-497D-915F-B4DC34CA3577,""
+Butene,025167-67-3,C6H14O4,Butene,kg,Airborne emissions,Airborne emissions,F4AE8283-F748-4491-9C6C-882982616B15,""
+Dimethyl malonate,000108-59-8,"",Dimethyl malonate,kg,Airborne emissions,Airborne emissions,002C518A-5BF7-47A7-BE4A-D60CBFC6C91F,Formula: C5H8O4
+Butene,025167-67-3,"",Butene,kg,Waterborne emissions,Waterborne emissions,EA31898B-168B-43BE-8A36-92729205A3E4,Formula: C4H8
