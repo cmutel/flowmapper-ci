@@ -4,14 +4,24 @@
 #
 #    pip-compile
 #
+attrs==23.1.0
+    # via glom
+boltons==23.1.1
+    # via
+    #   face
+    #   glom
 build==1.0.3
     # via pip-tools
 click==8.1.7
     # via
     #   pip-tools
     #   typer
-flowmapper @ git+https://github.com/fjuniorr/flowmapper.git@notebooks-logic
+face==20.1.1
+    # via glom
+flowmapper @ git+https://github.com/fjuniorr/flowmapper.git@main
     # via -r requirements.in
+glom==23.4.0
+    # via flowmapper
 packaging==23.2
     # via build
 petl==1.7.14
