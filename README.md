@@ -44,4 +44,13 @@ This will try all the [matching rules](https://github.com/fjuniorr/flowmapper/bl
 }
 ```
 
+More complex field mappings can be specified. For [example](config/SProf94_final_substanceList-ElementaryExchanges-3.7.toml):
+
+```bash
+python main.py map data/SProf94_final_substanceList.json \
+                   data/ElementaryExchanges-3.7.json \
+                   config/SProf94_final_substanceList-ElementaryExchanges-3.7.toml \
+                   --output-file SProf94_final_substanceList-ElementaryExchanges-3.7.json
+```
+
 The objective is to have a **maintainable, transparent, and reproducible system** which can be applied to new lists as they are released.

@@ -1,0 +1,7 @@
+[fields]
+
+uuid = ["sumi", "@id"]
+name = ["name", "name.#text"]
+context = ["mainCompartment", ["compartment.compartment.#text", "compartment.subcompartment.#text"]]
+unit = ["unit", "unitName.#text"]
+cas = ["cas", "@casNumber"]
