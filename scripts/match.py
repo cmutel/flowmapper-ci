@@ -4,18 +4,18 @@ import json
 from pathlib import Path
 from flowmapper.cas import CAS
 from flowmapper.match import match_rules
+from flowmapper.flow import Flow
 from scripts.utils import field_mapping, read_flowlist
 
 logger = logging.getLogger(__name__)
 
 def main(source_filepath: Path, target_filepath: Path, fields, output_file: Path = Path('mapping.json')):
-    source_flows = read_flowlist(source_filepath)
-    target_flows = read_flowlist(target_filepath)
+    fields = field_mapping(fields)
+    source_flows = [Flow.from_dict(flow, fields['source']) for flow in read_flowlist(source_filepath)]
+    target_flows = [Flow.from_dict(flow, fields['target']) for flow in read_flowlist(target_filepath)]
 
     rules = match_rules()
-    fields = field_mapping(fields)
     mappings = []
-
     for source_flow in tqdm(source_flows):
         for target_flow in target_flows:
             for rule in rules:
