@@ -1,7 +1,0 @@
-[fields]
-
-uuid = ["Flow UUID", "FlowUUID"]
-name = ["Flowable"]
-context = ["Context"]
-unit = ["Unit"]
-cas = ["CAS No", "CASNo"]
