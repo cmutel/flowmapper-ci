@@ -10,21 +10,20 @@ This project uses the [`flowmapper` package](https://github.com/fjuniorr/flowmap
 
 ## Usage
 
-Elementary flows lists exists in several different serialization formats but `flowmapper-ci` expects a "list of dicts" representation serialized as `json`. To convert the original flowlists stored in `data-raw/*` run:
+Elementary flows lists exists in several different serialization formats but `flowmapper-ci` expects a "list of dicts" representation serialized as `json`. To convert the original flowlists stored in `data-raw/*` run[^20231119T160504]:
+
+[^20231119T160504]: After installing the dependencies with `python -m pip install -r requirements.txt`.
 
 ```bash
 make clean
 ```
 
-Now we can run[^20231119T160504] the actual mapper specifying the source and target lists and a [mapping of field names](config/SimaProv9.4-ecoinventEFv3.7.toml):
-
-[^20231119T160504]: After installing the dependencies from `requirements.txt`.
+Now we can run the actual mapper specifying the source and target lists and a [mapping of field names](config/SimaProv9.4-ecoinventEFv3.7.toml):
 
 ```bash
-python main.py map data/SimaProv9.4.json \
-                   data/ecoinventEFv3.7.json \
-                   config/SimaProv9.4-ecoinventEFv3.7.toml \
-                   --output-file SimaProv9.4-ecoinventEFv3.7.json
+python main.py map data/simapro-flows.json \
+                   data/ElementaryExchanges-3.7.json \
+                   config/simapro-flows-ElementaryExchanges-3.7.toml
 ```
 
 This will try all the [matching rules](https://github.com/fjuniorr/flowmapper/blob/notebooks-logic/flowmapper/match.py#L105) defined in the [`flowmapper`](https://github.com/fjuniorr/flowmapper) package and generate mappings with the format:
@@ -32,25 +31,18 @@ This will try all the [matching rules](https://github.com/fjuniorr/flowmapper/bl
 ```python
   {
     "source": {
-      "Flow UUID": "90004354-71D3-47E8-B322-300BA5A98F7B",
-      "Flowable": "Actinium",
-      "Context": "Raw materials"
+      "name": "1,3-Dioxolan-2-one",
+      "categories": [
+        "Water",
+        "(unspecified)"
+      ]
     },
     "target": {
-      "FlowUUID": "7781bd84-0ca4-5bf1-8fc5-15cdc1fb0796"
+      "@id": "5b7d620e-2238-5ec9-888a-6999218b6974"
     },
     "conversionFactor": 1,
-    "MemoMapper": "Resources with suffix in ground"
-}
-```
-
-More complex field mappings can be specified. For [example](config/SProf94_final_substanceList-ElementaryExchanges-3.7.toml):
-
-```bash
-python main.py map data/SProf94_final_substanceList.json \
-                   data/ElementaryExchanges-3.7.json \
-                   config/SProf94_final_substanceList-ElementaryExchanges-3.7.toml \
-                   --output-file SProf94_final_substanceList-ElementaryExchanges-3.7.json
+    "comment": "Identical names"
+  }
 ```
 
 The objective is to have a **maintainable, transparent, and reproducible system** which can be applied to new lists as they are released.
