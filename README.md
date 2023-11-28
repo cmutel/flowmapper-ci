@@ -38,7 +38,10 @@ This will try all the [matching rules](https://github.com/fjuniorr/flowmapper/bl
       ]
     },
     "target": {
-      "@id": "5b7d620e-2238-5ec9-888a-6999218b6974"
+      "uuid": "5b7d620e-2238-5ec9-888a-6999218b6974",
+      "name": "1,3-Dioxolan-2-one",
+      "context": "water/unspecified",
+      "unit": "kg"
     },
     "conversionFactor": 1,
     "comment": "Identical names"
@@ -46,3 +49,11 @@ This will try all the [matching rules](https://github.com/fjuniorr/flowmapper/bl
 ```
 
 The objective is to have a **maintainable, transparent, and reproducible system** which can be applied to new lists as they are released.
+
+The last statistics for the matching `data/simapro-flows.json` and `data/ElementaryExchanges-3.7.json` is:
+
+```bash
+57975 unique source flows...
+4329 unique target flows...
+9121 mappings of 9040 unique source flows (15.59% of total).
+```
