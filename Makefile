@@ -14,5 +14,5 @@ data/industry-2.0-biosphere.json: data-raw/industry-2.0-biosphere.json
 data/simapro-unknown-biosphere.json: data-raw/simapro-flows.json
 	cp $< $@
 
-data/ecoinvent-%-biosphere.json: data-raw/ElementaryExchanges-%.xml scripts/munge/ecoinvent.py
-	python scripts/munge/ecoinvent.py $< $@
+data/ecoinvent-%-biosphere.json: data-raw/ElementaryExchanges-%.xml scripts/ecoinvent.py
+	python scripts/ecoinvent.py $< $@
