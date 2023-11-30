@@ -14,6 +14,7 @@ def main(source_filepath: Path, target_filepath: Path, fields, output_file: Path
 
     flowmap = Flowmap(source_flows, target_flows)
     flowmap.match()
+    result = flowmap.to_randonneur()
 
     with open(output_file, 'w') as fs:
-        json.dump([map_entry['info'] for map_entry in flowmap.mappings], fs, indent=2)
+        json.dump(result, fs, indent=2)
