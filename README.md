@@ -10,7 +10,7 @@ This project uses the [`flowmapper` package](https://github.com/fjuniorr/flowmap
 
 ## Usage
 
-Elementary flows lists exists in several different serialization formats but `flowmapper-ci` expects a "list of dicts" representation serialized as `json`. To convert the original flowlists stored in `data-raw/*` run[^20231119T160504]:
+Elementary flows lists exists in several different serialization formats but `flowmapper` expects a "list of dicts" representation serialized as `json`. To convert the original flowlists stored in `data-raw/*` run[^20231119T160504]:
 
 [^20231119T160504]: After installing the python dependencies with `python -m pip install -r requirements.txt` and [`jq`](https://jqlang.github.io/jq/).
 
@@ -18,37 +18,45 @@ Elementary flows lists exists in several different serialization formats but `fl
 make clean
 ```
 
-Now we can run the actual mapper specifying the source and target lists and a [mapping of field names](config/SimaProv9.4-ecoinventEFv3.7.toml):
+You can see flowmapper version and help page with:
 
 ```bash
-python main.py map data/simapro-flows.json \
-                   data/ElementaryExchanges-3.7.json \
-                   config/simapro-flows-ElementaryExchanges-3.7.toml
+flowmapper --version # flowmapper, version 0.0.0.post9001
+flowmapper map --help
+# Usage: flowmapper map [OPTIONS] SOURCE TARGET
+
+#   Generate mappings between elementary flows lists
+
+# Arguments:
+#   SOURCE  Path to source flowlist  [required]
+#   TARGET  Path to target flowlist  [required]
+
+# Options:
+#   --fields PATH                   Relationship between fields in source and
+#                                   target flowlists  [required]
+#   --matched / --no-matched        Write original matched flows into separate
+#                                   file?  [default: no-matched]
+#   --unmatched / --no-unmatched    Write original unmatched flows into separate
+#                                   file?  [default: unmatched]
+#   --output-dir PATH               Directory to save mapping and diagnostics
+#                                   files  [default: .]
+#   --format [all|glad|randonneur]  Mapping file output format  [default: all]
+#   --help                          Show this message and exit.
 ```
 
-This will try all the [matching rules](https://github.com/fjuniorr/flowmapper/blob/notebooks-logic/flowmapper/match.py#L105) defined in the [`flowmapper`](https://github.com/fjuniorr/flowmapper) package and generate mappings with the format:
+To run the actual mapper specifying the source and target lists and a [mapping of field names](config/SimaProv9.4-ecoinventEFv3.7.toml):
 
-```python
-  {
-    "source": {
-      "name": "1,3-Dioxolan-2-one",
-      "categories": [
-        "Water",
-        "(unspecified)"
-      ]
-    },
-    "target": {
-      "uuid": "5b7d620e-2238-5ec9-888a-6999218b6974",
-      "name": "1,3-Dioxolan-2-one",
-      "context": "water/unspecified",
-      "unit": "kg"
-    },
-    "conversionFactor": 1,
-    "comment": "Identical names"
-  }
+```bash
+flowmapper map --fields config/simapro-flows-ElementaryExchanges-3.7.toml \
+               data/agribalyse-3.1.1-biosphere.json \
+               data/ecoinvent-3.7-biosphere.json
 ```
+
+This will try all the [matching rules](https://github.com/fjuniorr/flowmapper/blob/notebooks-logic/flowmapper/match.py#L105) defined in the [`flowmapper`](https://github.com/fjuniorr/flowmapper) package and generate mappings with [`randonneur`](https://github.com/brightway-lca/randonneur) and [`glad`](https://github.com/UNEP-Economy-Division/GLAD-ElementaryFlowResources) formats. By default it will also write the original unmatched flows into a file.
 
 The objective is to have a **maintainable, transparent, and reproducible system** which can be applied to new lists as they are released.
+
+## Statistics
 
 The last statistics for the matching `data/simapro-flows.json` and `data/ElementaryExchanges-3.7.json` is:
 
