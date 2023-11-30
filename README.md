@@ -12,7 +12,7 @@ This project uses the [`flowmapper` package](https://github.com/fjuniorr/flowmap
 
 Elementary flows lists exists in several different serialization formats but `flowmapper-ci` expects a "list of dicts" representation serialized as `json`. To convert the original flowlists stored in `data-raw/*` run[^20231119T160504]:
 
-[^20231119T160504]: After installing the dependencies with `python -m pip install -r requirements.txt`.
+[^20231119T160504]: After installing the python dependencies with `python -m pip install -r requirements.txt` and [`jq`](https://jqlang.github.io/jq/).
 
 ```bash
 make clean
