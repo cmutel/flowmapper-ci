@@ -34,34 +34,33 @@ flowmapper map --help
 # Options:
 #   --fields PATH                   Relationship between fields in source and
 #                                   target flowlists  [required]
-#   --matched / --no-matched        Write original matched flows into separate
-#                                   file?  [default: no-matched]
-#   --unmatched / --no-unmatched    Write original unmatched flows into separate
-#                                   file?  [default: unmatched]
 #   --output-dir PATH               Directory to save mapping and diagnostics
 #                                   files  [default: .]
 #   --format [all|glad|randonneur]  Mapping file output format  [default: all]
+#   --unmatched-source / --no-unmatched-source
+#                                   Write original source unmatched flows into
+#                                   separate file?  [default: unmatched-source]
+#   --unmatched-target / --no-unmatched-target
+#                                   Write original target unmatched flows into
+#                                   separate file?  [default: unmatched-target]
+#   --matched-source / --no-matched-source
+#                                   Write original source matched flows into
+#                                   separate file?  [default: no-matched-source]
+#   --matched-target / --no-matched-target
+#                                   Write original target matched flows into
+#                                   separate file?  [default: no-matched-target]
 #   --help                          Show this message and exit.
 ```
 
 To run the actual mapper specifying the source and target lists and a [mapping of field names](config/SimaProv9.4-ecoinventEFv3.7.toml):
 
 ```bash
-flowmapper map --fields config/simapro-flows-ElementaryExchanges-3.7.toml \
-               data/agribalyse-3.1.1-biosphere.json \
+flowmapper map --fields config/simapro-ecoinvent.toml \
+               --output-dir mappings \
+               data/industry-2.0-biosphere.json \
                data/ecoinvent-3.7-biosphere.json
 ```
 
 This will try all the [matching rules](https://github.com/fjuniorr/flowmapper/blob/notebooks-logic/flowmapper/match.py#L105) defined in the [`flowmapper`](https://github.com/fjuniorr/flowmapper) package and generate mappings with [`randonneur`](https://github.com/brightway-lca/randonneur) and [`glad`](https://github.com/UNEP-Economy-Division/GLAD-ElementaryFlowResources) formats. By default it will also write the original unmatched flows into a file.
 
 The objective is to have a **maintainable, transparent, and reproducible system** which can be applied to new lists as they are released.
-
-## Statistics
-
-The last statistics for the matching `data/simapro-flows.json` and `data/ElementaryExchanges-3.7.json` is:
-
-```bash
-57975 unique source flows...
-4329 unique target flows...
-9121 mappings of 9040 unique source flows (15.59% of total).
-```
