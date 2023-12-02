@@ -15,6 +15,13 @@ source_flows_industry = [Flow.from_dict(flow, fields['source']) for flow in read
 target_flows = [Flow.from_dict(flow, fields['target']) for flow in read_flowlist('data/ecoinvent-3.7-biosphere.json')]
 ```
 
+```{python}
+#| echo: false
+#| output: asis
+import importlib.metadata
+print(f"_Generated with flowmapper, version {importlib.metadata.version('flowmapper')}._")
+```
+
 ## agribalyse
 
 Matching flows statistics between `data/agribalyse-3.1.1-biosphere.json` and `data/ecoinvent-3.7-biosphere.json`.
@@ -65,11 +72,4 @@ print(flowmap_industry.matched_source_statistics.to_markdown(index=False))
 #| echo: false
 #| output: asis
 print(flowmap_industry.matched_target_statistics.to_markdown(index=False))
-```
-
-```{python}
-#| echo: false
-#| output: asis
-import importlib.metadata
-print(f"_Generated with flowmapper, version {importlib.metadata.version('flowmapper')}._")
 ```
