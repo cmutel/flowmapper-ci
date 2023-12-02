@@ -1,0 +1,29 @@
+name: Update matching status
+on:
+  repository_dispatch:
+    types: [flowmapper-release]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    - name: Setup quarto
+      uses: quarto-dev/quarto-actions/setup@v2
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+    - run: pip install -r requirements.txt
+    - name: Run flowmapper
+      run: |-
+        quarto render status.qmd
+    - name: Commit and push any changes
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add status.md
+        timestamp=$(date -u)
+        git commit -m "Update status at: ${timestamp}" || exit 0
+        git push
