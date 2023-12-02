@@ -18,6 +18,7 @@ jobs:
     - run: pip install -r requirements.txt
     - name: Run flowmapper
       run: |-
+        make clean
         quarto render status.qmd
     - name: Commit and push any changes
       run: |-
