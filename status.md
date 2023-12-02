@@ -1,5 +1,7 @@
 # Status
 
+*Generated with flowmapper, version 0.0.0.post9005.*
+
 ## agribalyse
 
 Matching flows statistics between `data/agribalyse-3.1.1-biosphere.json`
@@ -135,5 +137,3 @@ Matching flows statistics between `data/industry-2.0-biosphere.json` and
 | water/surface water                        |     230 |   310 |  0.741935 |
 | soil/industrial                            |      39 |    48 |    0.8125 |
 | air/unspecified                            |     300 |   366 |  0.819672 |
-
-*Generated with flowmapper, version 0.0.0.post9004.*
