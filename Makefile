@@ -1,17 +1,18 @@
 .PHONY: clean
 
-OUTPUT_FILES := $(addsuffix .json,$(addprefix data/, $(basename $(notdir $(wildcard data-raw/*)))))
+clean: data/simapro-unknown-biosphere-all.json data/agribalyse-3.1.1-biosphere.json data/industry-2.0-biosphere.json data/simapro-unknown-biosphere.json data/ecoinvent-3.6-biosphere.json data/ecoinvent-3.7-biosphere.json data/ecoinvent-3.8-biosphere.json data/ecoinvent-3.9-biosphere.json
 
-clean: ${OUTPUT_FILES}
+data/simapro-unknown-biosphere-all.json: data-raw/agribalyse-3.1.1-biosphere.json data-raw/industry-2.0-biosphere.json data-raw/simapro-flows.json
+	jq -s 'add' $^ > $@
 
-data/%.json: data-raw/%.csv scripts/munge/%.py
-	python scripts/munge/$*.py $< $@
+data/agribalyse-3.1.1-biosphere.json: data-raw/agribalyse-3.1.1-biosphere.json
+	cp $< $@
 
-data/%.json: data-raw/%.xlsx scripts/munge/%.py
-	python scripts/munge/$*.py $< $@
+data/industry-2.0-biosphere.json: data-raw/industry-2.0-biosphere.json
+	cp $< $@
 
-data/%.json: data-raw/%.json scripts/munge/%.py
-	python scripts/munge/$*.py $< $@
+data/simapro-unknown-biosphere.json: data-raw/simapro-flows.json
+	cp $< $@
 
-data/%.json: data-raw/%.xml scripts/munge/%.py
-	python scripts/munge/$*.py $< $@
+data/ecoinvent-%-biosphere.json: data-raw/ElementaryExchanges-%.xml scripts/ecoinvent.py
+	python scripts/ecoinvent.py $< $@
