@@ -1,5 +1,7 @@
 # Status
 
+*Generated with flowmapper, version 0.0.0.post9005.*
+
 ## agribalyse
 
 Matching flows statistics between `data/agribalyse-3.1.1-biosphere.json`
@@ -7,32 +9,32 @@ and `data/ecoinvent-3.7-biosphere.json`.
 
     5667 source flows...
     4329 target flows...
-    3295 mappings (57.56% of total).
+    3415 mappings (59.66% of total).
 
 ### simapro
 
 | context                                     | matched | total |   percent |
 |:--------------------------------------------|--------:|------:|----------:|
-| Resources/                                  |       0 |   161 |         0 |
-| Emissions to soil/forestry                  |       8 |   288 | 0.0277778 |
-| Emissions to soil/                          |      63 |   319 |  0.197492 |
+| Emissions to soil/forestry                  |      11 |   288 | 0.0381944 |
+| Emissions to soil/                          |      70 |   319 |  0.219436 |
 | Resources/in water                          |     210 |   528 |  0.397727 |
+| Resources/                                  |      69 |   161 |  0.428571 |
 | Resources/in air                            |       6 |    13 |  0.461538 |
-| Emissions to water/river                    |     350 |   685 |  0.510949 |
-| Emissions to air/low. pop.                  |     322 |   572 |  0.562937 |
-| Emissions to water/                         |     400 |   676 |  0.591716 |
+| Emissions to water/river                    |     351 |   685 |  0.512409 |
+| Emissions to air/low. pop.                  |     328 |   572 |  0.573427 |
+| Emissions to water/                         |     401 |   676 |  0.593195 |
 | Resources/biotic                            |       9 |    14 |  0.642857 |
-| Emissions to water/groundwater              |     178 |   251 |  0.709163 |
-| Emissions to air/                           |     449 |   631 |  0.711569 |
+| Emissions to water/groundwater              |     179 |   251 |  0.713147 |
 | Resources/in ground                         |     178 |   249 |  0.714859 |
+| Emissions to air/                           |     457 |   631 |  0.724247 |
 | Emissions to water/lake                     |       8 |    11 |  0.727273 |
-| Emissions to soil/industrial                |      43 |    57 |  0.754386 |
-| Emissions to air/low. pop., long-term       |      62 |    79 |   0.78481 |
 | Emissions to water/ocean                    |     129 |   164 |  0.786585 |
-| Emissions to soil/agricultural              |     398 |   479 |  0.830898 |
-| Emissions to air/stratosphere + troposphere |      20 |    24 |  0.833333 |
-| Emissions to water/groundwater, long-term   |      41 |    47 |   0.87234 |
-| Emissions to air/high. pop.                 |     218 |   244 |  0.893443 |
+| Emissions to soil/industrial                |      47 |    57 |  0.824561 |
+| Emissions to air/low. pop., long-term       |      66 |    79 |  0.835443 |
+| Emissions to soil/agricultural              |     406 |   479 |  0.847599 |
+| Emissions to water/groundwater, long-term   |      42 |    47 |  0.893617 |
+| Emissions to air/high. pop.                 |     222 |   244 |  0.909836 |
+| Emissions to air/stratosphere + troposphere |      22 |    24 |  0.916667 |
 | Resources/land                              |     168 |   173 |  0.971098 |
 | Emissions to water/river, long-term         |       2 |     2 |         1 |
 
@@ -48,25 +50,25 @@ and `data/ecoinvent-3.7-biosphere.json`.
 | air/indoor                                 |       0 |     4 |         0 |
 | economic/primary production factor         |       0 |     5 |         0 |
 | inventory indicator/waste                  |       0 |     4 |         0 |
-| air/lower stratosphere + upper troposphere |      19 |   325 | 0.0584615 |
-| water/ground-, long-term                   |      41 |   268 |  0.152985 |
-| soil/forestry                              |       8 |    45 |  0.177778 |
-| air/low population density, long-term      |      62 |   325 |  0.190769 |
+| air/lower stratosphere + upper troposphere |      21 |   325 | 0.0646154 |
+| water/ground-, long-term                   |      42 |   268 |  0.156716 |
+| air/low population density, long-term      |      65 |   325 |       0.2 |
+| soil/forestry                              |      10 |    45 |  0.222222 |
 | water/ocean                                |     108 |   279 |  0.387097 |
-| water/ground-                              |     136 |   300 |  0.453333 |
-| air/urban air close to ground              |     201 |   334 |  0.601796 |
-| air/non-urban air or from high stacks      |     245 |   390 |  0.628205 |
-| water/unspecified                          |     201 |   312 |  0.644231 |
+| water/ground-                              |     138 |   300 |      0.46 |
+| air/urban air close to ground              |     204 |   334 |  0.610778 |
+| air/non-urban air or from high stacks      |     248 |   390 |  0.635897 |
 | natural resource/in water                  |      11 |    17 |  0.647059 |
+| water/unspecified                          |     202 |   312 |  0.647436 |
 | natural resource/in air                    |       6 |     9 |  0.666667 |
 | natural resource/in ground                 |     156 |   232 |  0.672414 |
-| soil/agricultural                          |     340 |   499 |  0.681363 |
 | natural resource/land                      |     125 |   182 |  0.686813 |
-| air/unspecified                            |     257 |   366 |  0.702186 |
-| water/surface water                        |     239 |   310 |  0.770968 |
-| soil/industrial                            |      42 |    48 |     0.875 |
+| soil/agricultural                          |     343 |   499 |  0.687375 |
+| air/unspecified                            |     260 |   366 |  0.710383 |
+| water/surface water                        |     240 |   310 |  0.774194 |
 | natural resource/biotic                    |       8 |     9 |  0.888889 |
-| soil/unspecified                           |      48 |    54 |  0.888889 |
+| soil/industrial                            |      45 |    48 |    0.9375 |
+| soil/unspecified                           |      51 |    54 |  0.944444 |
 
 ## industry
 
@@ -75,13 +77,13 @@ Matching flows statistics between `data/industry-2.0-biosphere.json` and
 
     3618 source flows...
     4329 target flows...
-    2470 mappings (67.66% of total).
+    2600 mappings (71.25% of total).
 
 ### simapro
 
 | context                                     | matched | total |  percent |
 |:--------------------------------------------|--------:|------:|---------:|
-| Resources/                                  |       0 |   435 |        0 |
+| Resources/                                  |     130 |   435 | 0.298851 |
 | Resources/in air                            |       5 |    14 | 0.357143 |
 | Emissions to soil/                          |      40 |   111 |  0.36036 |
 | Resources/biotic                            |       7 |    12 | 0.583333 |
@@ -98,11 +100,11 @@ Matching flows statistics between `data/industry-2.0-biosphere.json` and
 | Emissions to air/stratosphere + troposphere |      22 |    23 | 0.956522 |
 | Emissions to water/groundwater, long-term   |      50 |    52 | 0.961538 |
 | Emissions to air/low. pop.                  |     178 |   179 | 0.994413 |
-| Emissions to water/river, long-term         |       2 |     2 |        1 |
 | Emissions to air/low. pop., long-term       |      41 |    41 |        1 |
 | Emissions to water/groundwater              |      53 |    53 |        1 |
 | Emissions to water/lake                     |       9 |     9 |        1 |
 | Emissions to soil/forestry                  |       2 |     2 |        1 |
+| Emissions to water/river, long-term         |       2 |     2 |        1 |
 
 ### ecoinvent
 
@@ -126,8 +128,8 @@ Matching flows statistics between `data/industry-2.0-biosphere.json` and
 | natural resource/in air                    |       4 |     9 |  0.444444 |
 | air/non-urban air or from high stacks      |     178 |   390 |   0.45641 |
 | natural resource/in water                  |       8 |    17 |  0.470588 |
-| natural resource/in ground                 |     125 |   232 |  0.538793 |
 | natural resource/land                      |      99 |   182 |  0.543956 |
+| natural resource/in ground                 |     130 |   232 |  0.560345 |
 | air/urban air close to ground              |     192 |   334 |   0.57485 |
 | natural resource/biotic                    |       6 |     9 |  0.666667 |
 | water/unspecified                          |     228 |   312 |  0.730769 |
@@ -135,5 +137,3 @@ Matching flows statistics between `data/industry-2.0-biosphere.json` and
 | water/surface water                        |     230 |   310 |  0.741935 |
 | soil/industrial                            |      39 |    48 |    0.8125 |
 | air/unspecified                            |     300 |   366 |  0.819672 |
-
-*Generated with flowmapper, version 0.0.0.post9004.*
