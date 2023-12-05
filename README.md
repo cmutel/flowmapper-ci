@@ -52,10 +52,10 @@ flowmapper map --help
 #   --help                          Show this message and exit.
 ```
 
-To run the actual mapper specifying the source and target lists and a [mapping of field names](config/SimaProv9.4-ecoinventEFv3.7.toml):
+To run the actual mapper specifying the source and target lists and a [mapping of field names](config/simapro-ecoinvent.py):
 
 ```bash
-flowmapper map --fields config/simapro-ecoinvent.toml \
+flowmapper map --fields config/simapro-ecoinvent.py \
                --output-dir mappings \
                data/industry-2.0-biosphere.json \
                data/ecoinvent-3.7-biosphere.json
