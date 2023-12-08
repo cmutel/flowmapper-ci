@@ -26,5 +26,5 @@ jobs:
         git config user.email "actions@users.noreply.github.com"
         git add status.md
         timestamp=$(date -u)
-        git commit -m "Update status at: ${timestamp}" || exit 0
+        git commit -m "release https://github.com/fjuniorr/flowmapper/commit/${{ github.event.client_payload.sha }}" || exit 0
         git push

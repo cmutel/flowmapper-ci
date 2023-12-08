@@ -9,7 +9,7 @@ from flowmapper.utils import read_field_mapping, read_flowlist
 from flowmapper.flowmap import Flowmap
 from flowmapper.flow import Flow
 
-fields = read_field_mapping('config/simapro-ecoinvent.toml')
+fields = read_field_mapping('config/simapro-ecoinvent.py')
 source_flows_agribalyse = [Flow.from_dict(flow, fields['source']) for flow in read_flowlist('data/agribalyse-3.1.1-biosphere.json')]
 source_flows_industry = [Flow.from_dict(flow, fields['source']) for flow in read_flowlist('data/industry-2.0-biosphere.json')]
 target_flows = [Flow.from_dict(flow, fields['target']) for flow in read_flowlist('data/ecoinvent-3.7-biosphere.json')]
