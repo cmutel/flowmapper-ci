@@ -9,7 +9,7 @@ and `data/ecoinvent-3.7-biosphere.json`.
 
     5667 source flows...
     4329 target flows...
-    3419 mappings (59.71% of total).
+    3422 mappings (59.75% of total).
 
 ### simapro
 
@@ -29,7 +29,7 @@ and `data/ecoinvent-3.7-biosphere.json`.
 | water/ocean                                |     129 |   164 |  0.786585 |
 | soil/industrial                            |      47 |    57 |  0.824561 |
 | air/low population density, long-term      |      66 |    79 |  0.835443 |
-| soil/agricultural                          |     407 |   479 |  0.849687 |
+| soil/agricultural                          |     409 |   479 |  0.853862 |
 | water/ground-, long-term                   |      42 |    47 |  0.893617 |
 | air/urban air close to ground              |     222 |   244 |  0.909836 |
 | air/lower stratosphere + upper troposphere |      22 |    24 |  0.916667 |
@@ -60,7 +60,7 @@ and `data/ecoinvent-3.7-biosphere.json`.
 | natural resource/in air                    |       6 |     9 |  0.666667 |
 | natural resource/in ground                 |     156 |   232 |  0.672414 |
 | natural resource/land                      |     125 |   182 |  0.686813 |
-| soil/agricultural                          |     345 |   499 |  0.691383 |
+| soil/agricultural                          |     347 |   499 |  0.695391 |
 | air                                        |     260 |   366 |  0.710383 |
 | water/surface water                        |     240 |   310 |  0.774194 |
 | natural resource/biotic                    |       8 |     9 |  0.888889 |
