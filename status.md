@@ -10,6 +10,7 @@ and `data/ecoinvent-3.7-biosphere.json`.
     5667 source flows...
     4329 target flows...
     3422 mappings (59.75% of total).
+    Mappings cardinalities: {'N:1': 1753, '1:1': 1598, 'N:M': 48, '1:N': 23}
 
 ### simapro
 
@@ -75,6 +76,7 @@ Matching flows statistics between `data/industry-2.0-biosphere.json` and
     3618 source flows...
     4329 target flows...
     2604 mappings (71.34% of total).
+    Mappings cardinalities: {'N:1': 1012, '1:1': 1546, '1:N': 18, 'N:M': 28}
 
 ### simapro
 
