@@ -2,7 +2,6 @@ library(readxl)
 library(data.table)
 library(dplyr)
 
-
 ei39 <- read_excel("data/ecoinvent-3.9-biosphere.xlsx") |> as.data.table()
 ei310 <- read_excel("data/ecoinvent-3.10-biosphere.xlsx") |> as.data.table()
 
