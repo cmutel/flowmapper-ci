@@ -1,0 +1,3701 @@
+[
+ {
+  "@id": "a7831686-271e-4054-ac34-cf55814f902c",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "AOX, Adsorbable Organic Halogen as Cl"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "a119c440-7e83-4655-a874-97fe1468315a",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.224356043320127"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.224356043320127"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "1f607ae2-b42d-4411-90b8-e9bbac66a554",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "As+5",
+  "@casNumber": "017428-41-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Arsenic, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "a119c440-7e83-4655-a874-97fe1468315a",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "c3b659e5-35f1-408c-8cb5-b5f9b295c76e",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Cu+",
+  "@casNumber": "017493-86-6",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Copper, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "a119c440-7e83-4655-a874-97fe1468315a",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "33fd8342-58e7-45c9-ad92-0951c002c403",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Fe+2",
+  "@casNumber": "015438-31-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Iron, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "a119c440-7e83-4655-a874-97fe1468315a",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "5666353e-2db2-41d3-8414-404709151422",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Metamorphous rock, graphite containing, in ground"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "6a098164-9f04-4f65-8104-ffab7f2677f3",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "natural resource"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "in ground"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "175baa64-d985-4c5e-84ef-67cc3a1cf952",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "NMVOC, non-methane volatile organic compounds, unspecified origin"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e8d7772c-55ca-4dd7-b605-fee5ae764578",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "urban air close to ground"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.427024457774336",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "The ratio C fossil/C biogenic has been estimated to 50:50 using data concerning global material uses and mass flows (J.K. Steinberger et al., Ecological Economics, 2010, 69:1148\u20131158). Repartition of different fossil fuels was estimated using production volumes in ecoinvent v3.)"
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.427024457774336",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "The ratio C fossil/C biogenic has been estimated to 50:50 using data concerning global material uses and mass flows (J.K. Steinberger et al., Ecological Economics, 2010, 69:1148\u20131158). Repartition of different fossil fuels was estimated using production volumes in ecoinvent v3.)"
+    }
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "230d8a0a-517c-43fe-8357-1818dd12997a",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Particulates, < 2.5 um"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e8d7772c-55ca-4dd7-b605-fee5ae764578",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "urban air close to ground"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.922578950360014",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Soot considered CH"
+    }
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "1eb1b94c-e9d8-47ab-969b-9cca920157d8",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Particulates, > 10 um"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e8d7772c-55ca-4dd7-b605-fee5ae764578",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "urban air close to ground"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.922578950360014",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Soot considered CH"
+    }
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "ccb169c3-8aae-4727-89bb-a7dd122946f3",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Particulates, > 2.5 um, and < 10um"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e8d7772c-55ca-4dd7-b605-fee5ae764578",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "urban air close to ground"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.922578950360014",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Soot considered CH"
+    }
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "f73177d8-5e57-4f0d-ba34-6889cfdfed40",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Sn+4",
+  "@casNumber": "022537-50-4",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Tin, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "a119c440-7e83-4655-a874-97fe1468315a",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "e2380d91-f278-41ee-9926-15272a7d1443",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Ti+2",
+  "@casNumber": "022541-75-9",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Titanium, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "a119c440-7e83-4655-a874-97fe1468315a",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "titanium(2+)"
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "ed1fd27e-014a-41cf-842f-7b2022b0be79",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "V",
+  "@casNumber": "022541-77-1",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Vanadium, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "a119c440-7e83-4655-a874-97fe1468315a",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "8ab803d5-39b7-4fcc-9018-896720031143",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "VOC, volatile organic compounds, unspecified origin"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "a119c440-7e83-4655-a874-97fe1468315a",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.422005234352641"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.422005234352641"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "33b38ccb-593b-4b11-b965-10d747ba3556",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "NMVOC, non-methane volatile organic compounds, unspecified origin"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.427024457774336",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "The ratio C fossil/C biogenic has been estimated to 50:50 using data concerning global material uses and mass flows (J.K. Steinberger et al., Ecological Economics, 2010, 69:1148\u20131158). Repartition of different fossil fuels was estimated using production volumes in ecoinvent v3.)"
+    }
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.427024457774336",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "The ratio C fossil/C biogenic has been estimated to 50:50 using data concerning global material uses and mass flows (J.K. Steinberger et al., Ecological Economics, 2010, 69:1148\u20131158). Repartition of different fossil fuels was estimated using production volumes in ecoinvent v3.)"
+    }
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "3f5339ef-1939-4f44-8cd6-98ac7584d456",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "NMVOC, non-methane volatile organic compounds, unspecified origin"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "23dbff79-8037-43e7-b270-5a3da416a284",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "low population density, long-term"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "not including single substances"
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.427024457774336"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.427024457774336"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "36c96aed-9335-4564-8cdd-46f01a13700c",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "NMVOC, non-methane volatile organic compounds, unspecified origin"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "f335ce0e-b830-475a-adab-03858d9cbdaf",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "lower stratosphere + upper troposphere"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "not including single substances"
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.427024457774336"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.427024457774336"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "d3260d0e-8203-4cbb-a45a-6a13131a5108",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "NMVOC, non-methane volatile organic compounds, unspecified origin"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "7011f0aa-f5f9-4901-8c10-884ad8296812",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.427024457774336"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.427024457774336"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "66f50b33-fd62-4fdd-a373-c5b0de7de00d",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Particulates, < 2.5 um"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.922578950360014",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Soot considered CH"
+    }
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "051aaf7a-6c1a-4e86-999f-85d5f0830df6",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Particulates, < 2.5 um"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "23dbff79-8037-43e7-b270-5a3da416a284",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "low population density, long-term"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.922578950360014"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "ddd99a3a-be86-423d-b36a-a9dc8af1b1f8",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Particulates, < 2.5 um"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "f335ce0e-b830-475a-adab-03858d9cbdaf",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "lower stratosphere + upper troposphere"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.922578950360014"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "21e46cb8-6233-4c99-bac3-c41d2ab99498",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Particulates, < 2.5 um"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "7011f0aa-f5f9-4901-8c10-884ad8296812",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.922578950360014",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Soot considered CH"
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "7678cec7-b8e1-439d-8242-99cd452834b1",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Particulates, > 10 um"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.922578950360014",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Soot considered CH"
+    }
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "b001715e-60e4-4f1d-949d-1acfab65bd8f",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Particulates, > 10 um"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "23dbff79-8037-43e7-b270-5a3da416a284",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "low population density, long-term"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.922578950360014"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "e22e8f39-d8f2-4702-bed3-0b95babb7788",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Particulates, > 10 um"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "f335ce0e-b830-475a-adab-03858d9cbdaf",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "lower stratosphere + upper troposphere"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.922578950360014"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "66020d27-7ae4-4e59-83a3-89214b72c40a",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Particulates, > 10 um"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "7011f0aa-f5f9-4901-8c10-884ad8296812",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.922578950360014",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Soot considered CH"
+    }
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "295c9740-6fdb-4676-9eb8-15e3786f713d",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Particulates, > 2.5 um, and < 10um"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.922578950360014",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Soot considered CH"
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "5716c728-bd33-414d-8691-16e5534f5d37",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Particulates, > 2.5 um, and < 10um"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "23dbff79-8037-43e7-b270-5a3da416a284",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "low population density, long-term"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.922578950360014"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "604f9273-f26b-46be-83a7-3a65280011d1",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Particulates, > 2.5 um, and < 10um"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "f335ce0e-b830-475a-adab-03858d9cbdaf",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "lower stratosphere + upper troposphere"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.922578950360014"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "b967e1bf-f09b-4c89-8740-ace21db47bba",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Particulates, > 2.5 um, and < 10um"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "7011f0aa-f5f9-4901-8c10-884ad8296812",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.922578950360014",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Soot considered CH"
+    }
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "b5b4a44b-1d45-447f-b2b0-400d1069c733",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "AOX, Adsorbable Organic Halogen as Cl"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "aa4362e0-b20a-448b-b2a0-261f4510deb5",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-, long-term"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.224356043320127"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.224356043320127"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "46e6f5f7-6541-494f-a9bb-66918fb5d592",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "AOX, Adsorbable Organic Halogen as Cl"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "65f8d2a1-63ed-479c-b86c-3bcf38e86320",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ocean"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.224356043320127"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.224356043320127"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "e395a1a3-6915-4b72-a533-ff1a82fc3da1",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "AOX, Adsorbable Organic Halogen as Cl"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.224356043320127",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "The ratio C fossil/C biogenic has been estimated to 50:50 using data concerning global material uses and mass flows (J.K. Steinberger et al., Ecological Economics, 2010, 69:1148\u20131158). Repartition of different fossil fuels was estimated using production volumes in ecoinvent v3."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.224356043320127",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "The ratio C fossil/C biogenic has been estimated to 50:50 using data concerning global material uses and mass flows (J.K. Steinberger et al., Ecological Economics, 2010, 69:1148\u20131158). Repartition of different fossil fuels was estimated using production volumes in ecoinvent v3."
+    }
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "a4f6341b-1762-4222-9024-bfd91f63588f",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "AOX, Adsorbable Organic Halogen as Cl"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.224356043320127",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "The ratio C fossil/C biogenic has been estimated to 50:50 using data concerning global material uses and mass flows (J.K. Steinberger et al., Ecological Economics, 2010, 69:1148\u20131158). Repartition of different fossil fuels was estimated using production volumes in ecoinvent v3."
+    }
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.224356043320127",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "The ratio C fossil/C biogenic has been estimated to 50:50 using data concerning global material uses and mass flows (J.K. Steinberger et al., Ecological Economics, 2010, 69:1148\u20131158). Repartition of different fossil fuels was estimated using production volumes in ecoinvent v3."
+    }
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "e60edb16-3c74-415b-9aff-a22a6f49fecb",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "As+5",
+  "@casNumber": "017428-41-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Arsenic, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "aa4362e0-b20a-448b-b2a0-261f4510deb5",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-, long-term"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "d70b4182-d633-4178-84c0-8854f5f6594b",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "As+5",
+  "@casNumber": "017428-41-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Arsenic, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "65f8d2a1-63ed-479c-b86c-3bcf38e86320",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ocean"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "8c8ffaa5-84ed-4668-ba7d-80fd0f47013f",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "As+5",
+  "@casNumber": "017428-41-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Arsenic, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "e1bd008f-c3c2-47f1-ab60-35e1a842acc0",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "As+5",
+  "@casNumber": "017428-41-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Arsenic, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "40229ebf-9346-4f20-910a-f8ea3bd88d44",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Cu+",
+  "@casNumber": "017493-86-6",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Copper, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "aa4362e0-b20a-448b-b2a0-261f4510deb5",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-, long-term"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "d8f9ccf6-fd32-4348-83c0-1cee724af9ae",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Cu+",
+  "@casNumber": "017493-86-6",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Copper, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "65f8d2a1-63ed-479c-b86c-3bcf38e86320",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ocean"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "6d9550e2-e670-44c1-bad8-c0c4975ffca7",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Cu+",
+  "@casNumber": "017493-86-6",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Copper, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "615b1460-6860-4cf6-8678-ad92c03c5e8b",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Cu+",
+  "@casNumber": "017493-86-6",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Copper, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "9b6d6f07-ebc6-447d-a3c0-f2017d77d852",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Fe+2",
+  "@casNumber": "015438-31-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Iron, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "aa4362e0-b20a-448b-b2a0-261f4510deb5",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-, long-term"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "2c9a7182-37c8-4777-a37a-9a007c3edb2f",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Fe+2",
+  "@casNumber": "015438-31-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Iron, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "65f8d2a1-63ed-479c-b86c-3bcf38e86320",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ocean"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "7c335b9c-a403-47a8-bb6d-2e7d3c3a230e",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Fe+2",
+  "@casNumber": "015438-31-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Iron, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "de444dc0-5964-4501-8367-50ba53bfc6b9",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Fe+2",
+  "@casNumber": "015438-31-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Iron, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "60a6702f-20ad-444f-a6df-f6374f1e3183",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Sn+4",
+  "@casNumber": "022537-50-4",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Tin, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "aa4362e0-b20a-448b-b2a0-261f4510deb5",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-, long-term"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "2a992e5e-9f16-47b8-8bcb-733d00bed658",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Sn+4",
+  "@casNumber": "022537-50-4",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Tin, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "65f8d2a1-63ed-479c-b86c-3bcf38e86320",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ocean"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "3ddb2e36-bc1b-43a5-8ef4-cbcdbeeeea70",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Sn+4",
+  "@casNumber": "022537-50-4",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Tin, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "d5c40848-fc29-47fa-90a4-46db64a45a4e",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Sn+4",
+  "@casNumber": "022537-50-4",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Tin, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "2a46e7f4-c66c-43e5-8a8a-d119c4098aff",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Ti+2",
+  "@casNumber": "022541-75-9",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Titanium, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "aa4362e0-b20a-448b-b2a0-261f4510deb5",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-, long-term"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "titanium(2+)"
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "2beb46d1-2d1d-48ca-bf95-f0668fed29bf",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Ti+2",
+  "@casNumber": "022541-75-9",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Titanium, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "65f8d2a1-63ed-479c-b86c-3bcf38e86320",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ocean"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "titanium(2+)"
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "ff36578b-f403-4656-b934-81d8d4e02dc8",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Ti+2",
+  "@casNumber": "022541-75-9",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Titanium, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "titanium(2+)"
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "a4c31e2a-915e-4ab2-accd-d3ae93d2e01e",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Ti+2",
+  "@casNumber": "022541-75-9",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Titanium, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "titanium(2+)"
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "41dbbe1f-06e1-4a34-8497-5986be8f9e51",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "V",
+  "@casNumber": "022541-77-1",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Vanadium, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "aa4362e0-b20a-448b-b2a0-261f4510deb5",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-, long-term"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "dbdc3ea8-cc2b-4dbe-82b9-e954e333281d",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "V",
+  "@casNumber": "022541-77-1",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Vanadium, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "65f8d2a1-63ed-479c-b86c-3bcf38e86320",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ocean"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "a46a250e-297d-43e9-b1c4-052cdcfb79c5",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "V",
+  "@casNumber": "022541-77-1",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Vanadium, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "20839113-fbf2-4d2f-bab8-66861f86bc60",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "V",
+  "@casNumber": "022541-77-1",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Vanadium, ion"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "134c89a1-e244-4664-945c-5ebf5f394297",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "VOC, volatile organic compounds, unspecified origin"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "aa4362e0-b20a-448b-b2a0-261f4510deb5",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-, long-term"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.422005234352641"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.422005234352641"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "113746e5-66a9-4d8c-b72b-4a99e7fcd052",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "VOC, volatile organic compounds, unspecified origin"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "65f8d2a1-63ed-479c-b86c-3bcf38e86320",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ocean"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.422005234352641"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.422005234352641"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "0b94989b-2551-4069-bb11-4f9f48988cad",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "VOC, volatile organic compounds, unspecified origin"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.422005234352641"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.422005234352641"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "9ba627f4-3a6c-4dd6-8598-4e1639fbd85a",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "VOC, volatile organic compounds, unspecified origin"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.422005234352641"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.422005234352641"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "66a6dad0-e450-4206-88e1-f823a04f8b1d",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Haloxyfop- (R) Methylester"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e1bc9a16-5b6a-494f-98ef-49f461b1a11e",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "soil"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "agricultural"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.498094498601008"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   }
+  ]
+ },
+ {
+  "@id": "43b2649e-26f8-400d-bc0a-a0667e850915",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Gangue, bauxite, in ground"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "6a098164-9f04-4f65-8104-ffab7f2677f3",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "natural resource"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "in ground"
+   }
+  },
+  "comment": {
+   "@xml:lang": "en",
+   "#text": "Gangue material extracted during bauxite extraction.  Represents total ore extracted minus aluminium and gallium content  of the ore, considered the two valuable resources contained in the ore.\nGangue material extracted during bauxite extraction.  Represents total ore extracted minus aluminium and gallium content  of the ore, considered the two valuable resources contained in the ore."
+  },
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   }
+  ]
+ },
+ {
+  "@id": "05f6e226-0593-46f5-a788-01fa306e66ad",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@casNumber": "000630-08-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Carbon monoxide, from soil or biomass stock"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "6890faa1-312e-427d-9ca8-42309afc8866",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "indoor"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.428571428571429"
+   }
+  ]
+ },
+ {
+  "@id": "288c4e8a-d371-4bc1-b45b-c4b0cefd400e",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@casNumber": "000074-82-8",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Methane, from soil or biomass stock"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "6890faa1-312e-427d-9ca8-42309afc8866",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "indoor"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "CH4"
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.75"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "5188df39-2bb8-4826-b469-fa9f86bacc09",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@casNumber": "000124-38-9",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Carbon dioxide, from soil or biomass stock"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "6890faa1-312e-427d-9ca8-42309afc8866",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "indoor"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.272916486782489"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "6abf9e1a-c33e-49ae-aeae-ab84cee7d2ab",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C2H6O",
+  "@casNumber": "000115-10-6",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Dimethyl ether"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "6890faa1-312e-427d-9ca8-42309afc8866",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "indoor"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "methoxymethane"
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.521434785704239"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   }
+  ]
+ },
+ {
+  "@id": "b157329c-4179-5491-97c4-649900954ffa",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C14H31NO",
+  "@casNumber": "001643-20-5",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Amine oxide"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "7011f0aa-f5f9-4901-8c10-884ad8296812",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.732996498613726"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   }
+  ]
+ },
+ {
+  "@id": "1d8560a8-23e0-57f0-ade2-69103c953de8",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C12H10O",
+  "@casNumber": "000101-84-8",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Diphenylether-compound"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.846785280369988"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "4ec70203-13b0-58cc-b4dd-2fcce8a96732",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "VOC, volatile organic compounds, unspecified origin"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "7011f0aa-f5f9-4901-8c10-884ad8296812",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.422005234352641"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.422005234352641"
+   }
+  ]
+ }
+]

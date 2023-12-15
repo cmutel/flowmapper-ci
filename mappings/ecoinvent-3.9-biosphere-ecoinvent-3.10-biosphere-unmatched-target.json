@@ -1,0 +1,7354 @@
+[
+ {
+  "@id": "b6d0042d-0ef8-49ed-9162-a07ff1ccf750",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Coal, hard"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "6a098164-9f04-4f65-8104-ffab7f2677f3",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "natural resource"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "in ground"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.845"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "98eb1d16-9d7a-4716-9be4-1449341a832f",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Na+",
+  "@casNumber": "017341-25-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Sodium I"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e8d7772c-55ca-4dd7-b605-fee5ae764578",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "urban air close to ground"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "d3c0b420-1906-478c-8812-acfe6bf40c2e",
+    "@amount": "1",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula Na+."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "ed8da356-ed40-4a35-8de4-57aee1d3c279",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C8H10",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Xylenes, unspecified"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e8d7772c-55ca-4dd7-b605-fee5ae764578",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "urban air close to ground"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "xylenes"
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.905",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H10."
+    }
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0949",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H10."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "3d719c07-ec27-4971-b7cc-4bcf17d77dd3",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Na+",
+  "@casNumber": "017341-25-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Sodium I"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "d3c0b420-1906-478c-8812-acfe6bf40c2e",
+    "@amount": "1",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula Na+."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "01248058-8a0f-40f6-8555-13ec37c7931d",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Na+",
+  "@casNumber": "017341-25-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Sodium I"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "23dbff79-8037-43e7-b270-5a3da416a284",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "low population density, long-term"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "d3c0b420-1906-478c-8812-acfe6bf40c2e",
+    "@amount": "1",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula Na+."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "235b2f02-ff98-4da9-82e2-e4246c7b7990",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Na+",
+  "@casNumber": "017341-25-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Sodium I"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "7011f0aa-f5f9-4901-8c10-884ad8296812",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "d3c0b420-1906-478c-8812-acfe6bf40c2e",
+    "@amount": "1",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula Na+."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "a1d277aa-7aea-4b5e-8aa9-2789ba8ff333",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C8H10",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Xylenes, unspecified"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "xylenes"
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.905",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H10."
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0949",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H10."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "c8214570-8e2d-4ccf-b9d7-aabc17068d4e",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C8H10",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Xylenes, unspecified"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "23dbff79-8037-43e7-b270-5a3da416a284",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "low population density, long-term"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "xylenes"
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.905",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H10."
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0949",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H10."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "5c234628-ab1e-4284-ae2b-f1c2f6883f71",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C8H10",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Xylenes, unspecified"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "7011f0aa-f5f9-4901-8c10-884ad8296812",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "xylenes"
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.905",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H10."
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0949",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H10."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "896bfa32-a9a9-4e75-aed0-e178987ec038",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Na+",
+  "@casNumber": "017341-25-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Sodium I"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e1bc9a16-5b6a-494f-98ef-49f461b1a11e",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "soil"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "agricultural"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "d3c0b420-1906-478c-8812-acfe6bf40c2e",
+    "@amount": "1",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula Na+."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "e19658ac-3c4a-4cde-90ab-9dc6f569b02b",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Na+",
+  "@casNumber": "017341-25-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Sodium I"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "15f47463-77ea-40d0-bfe8-ca632819f556",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "soil"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "forestry"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "d3c0b420-1906-478c-8812-acfe6bf40c2e",
+    "@amount": "1",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula Na+."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "cc1c987a-2b6e-4cbc-969a-73f1c96de448",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Na+",
+  "@casNumber": "017341-25-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Sodium I"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "912f1ae3-734e-4cc6-bbf7-0f36843cd7de",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "soil"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "industrial"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "d3c0b420-1906-478c-8812-acfe6bf40c2e",
+    "@amount": "1",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula Na+."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "4573f0c9-0fdd-413f-ae74-e27290f40743",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "Na+",
+  "@casNumber": "017341-25-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Sodium I"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "dbeb0ac7-0dec-439e-887a-9924cc8005dd",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "soil"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "d3c0b420-1906-478c-8812-acfe6bf40c2e",
+    "@amount": "1",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula Na+."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "0e6cf9f9-44ff-4395-ad3b-36109a32e6eb",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C8H10",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Xylenes, unspecified"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "a119c440-7e83-4655-a874-97fe1468315a",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "xylenes"
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.905",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H10."
+    }
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0949",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H10."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "0985a2b2-b411-4c95-a955-1aa5bb64bd08",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C8H10",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Xylenes, unspecified"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "aa4362e0-b20a-448b-b2a0-261f4510deb5",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-, long-term"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "xylenes"
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.905",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H10."
+    }
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0949",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H10."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "6d9e9a11-4d99-4489-a0ab-4cd1b6b8eaef",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C8H10",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Xylenes, unspecified"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "65f8d2a1-63ed-479c-b86c-3bcf38e86320",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ocean"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "xylenes"
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.905",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H10."
+    }
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0949",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H10."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "29190509-6cc8-47e1-bc99-5ff994e39b74",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C8H10",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Xylenes, unspecified"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "xylenes"
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.905",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H10."
+    }
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0949",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H10."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "045f7de9-60d5-4916-a504-5a1002a6e97e",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C8H10",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Xylenes, unspecified"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "xylenes"
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.905",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H10."
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0949",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H10."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "4c44e04f-9b3d-4389-bf08-1bddf9dfa9e7",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C6H15AlO9P3+3",
+  "@casNumber": "039148-24-8",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Fosetyl-Al"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e1bc9a16-5b6a-494f-98ef-49f461b1a11e",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "soil"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "agricultural"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "Fosetyl-Al"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "fosetyl-aluminum"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.205",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C6H15AlO9P3+3."
+    }
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "e9688cbc-7400-457a-a936-5ab123ea326c",
+    "@amount": "0.0769",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C6H15AlO9P3+3."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.41",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C6H15AlO9P3+3."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0431",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C6H15AlO9P3+3."
+    }
+   },
+   {
+    "@propertyId": "97f3bbfe-fa3a-4d05-9cb6-bb4b6379c5ef",
+    "@amount": "0.265",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C6H15AlO9P3+3."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "80c486c9-883c-4623-b3b7-31e16c87a0d0",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "CHN",
+  "@casNumber": "000074-90-8",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Hydrogen cyanide"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "7011f0aa-f5f9-4901-8c10-884ad8296812",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "Hydrocyanic acid"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "Formic anammonide"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "Formonitrile"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.444",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula CHN."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0373",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula CHN."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.518",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula CHN."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "f90dd6f4-07e8-45e2-abaf-4156a56da735",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C3H7NO",
+  "@casNumber": "000068-12-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "N,N-Dimethylformamide"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "7011f0aa-f5f9-4901-8c10-884ad8296812",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "Formamide, N,N-dimethyl-"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "Dimethyl formamide"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0965",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C3H7NO."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.493",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C3H7NO."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.192",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C3H7NO."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.219",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C3H7NO."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "a1f19e68-e0ca-4d2b-a159-38e9036542f3",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C18H15ClF3N3O2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Mefentrifluconazole"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e1bc9a16-5b6a-494f-98ef-49f461b1a11e",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "soil"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "agricultural"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "2-[4-(4-chlorophenoxy)-2-(trifluoromethyl)phenyl]-1-(1,2,4-triazol-1-yl)propan-2"
+  },
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.038",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H15ClF3N3O2."
+    }
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.0891",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H15ClF3N3O2."
+    }
+   },
+   {
+    "@propertyId": "1f3c2d02-f345-4df9-ba6a-88cdeaa67923",
+    "@amount": "0.143",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H15ClF3N3O2."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.106",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H15ClF3N3O2."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.0804",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H15ClF3N3O2."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.544",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H15ClF3N3O2."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "bc44051d-e6c4-4aa2-a939-73ae1afd9c64",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C11H11N5O6S2",
+  "@casNumber": "079277-67-1",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Thifensulfuron"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e1bc9a16-5b6a-494f-98ef-49f461b1a11e",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "soil"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "agricultural"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "3-[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)carbamoylsulfamoyl]thiophene-2-carboxy"
+  },
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0297",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C11H11N5O6S2."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.354",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C11H11N5O6S2."
+    }
+   },
+   {
+    "@propertyId": "f6c7ebbb-902a-412f-a55b-0743aea00238",
+    "@amount": "0.172",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C11H11N5O6S2."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.188",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C11H11N5O6S2."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.257",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C11H11N5O6S2."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "613b907a-973e-422a-95c8-feb4f96aa92d",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C4H10O2",
+  "@casNumber": "000075-91-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Tert-butyl hydroperoxide"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "7011f0aa-f5f9-4901-8c10-884ad8296812",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "t-butyl hydroperoxide"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "TBHP"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "tert-butylhydroperoxide"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.355",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C4H10O2."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.112",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C4H10O2."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.533",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C4H10O2."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "ebecaf6b-68cd-4740-8485-3676871a2929",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C4H10O2",
+  "@casNumber": "000075-91-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Tert-butyl hydroperoxide"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "TBHP"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "tert-butylhydroperoxide"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "t-butyl hydroperoxide"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.112",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C4H10O2."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.355",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C4H10O2."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.533",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C4H10O2."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "f06ecbdf-cd83-46a9-b05e-c90ce65858a8",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C4H10O",
+  "@casNumber": "000075-65-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Tert-butanol"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "7011f0aa-f5f9-4901-8c10-884ad8296812",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "2-Methyl-2-propanol"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "2-Methylpropan-2-ol"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "tert-Butyl alcohol"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "TBA"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.216",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C4H10O."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.648",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C4H10O."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.136",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C4H10O."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "18762d4d-f0b1-4f32-9dd1-fed497e286bd",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C4H10O",
+  "@casNumber": "000075-65-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Tert-butanol"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "2-Methyl-2-propanol"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "TBA"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "2-Methylpropan-2-ol"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "tert-Butyl alcohol"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.136",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C4H10O."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.648",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C4H10O."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.216",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C4H10O."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "82cbb28a-fd1d-45b5-a506-556664e9ea07",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C4H2O3",
+  "@casNumber": "000108-31-6",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Maleic anhydride"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "7011f0aa-f5f9-4901-8c10-884ad8296812",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "furan-2,5-dione"
+  },
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0206",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C4H2O3."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.489",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C4H2O3."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.49",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C4H2O3."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "0c17c103-c3b1-4e5c-aaba-4d3d15855810",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C2H2O",
+  "@casNumber": "012071-23-7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Ketene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "7011f0aa-f5f9-4901-8c10-884ad8296812",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.571",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C2H2O."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.381",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C2H2O."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.048",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C2H2O."
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "7bade07b-84da-4cdf-8798-2ab5a1ceec7a",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "SCl2",
+  "@casNumber": "010545-99-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Sulfur dichloride"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "7011f0aa-f5f9-4901-8c10-884ad8296812",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.689",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula SCl2."
+    }
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "f6c7ebbb-902a-412f-a55b-0743aea00238",
+    "@amount": "0.311",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula SCl2."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "a7831686-271e-4054-ac34-cf55814f902c",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "AOX, Adsorbable Organic Halides"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "a119c440-7e83-4655-a874-97fe1468315a",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "adsorbable organic halogen"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "aox"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "0"
+   }
+  ]
+ },
+ {
+  "@id": "b5b4a44b-1d45-447f-b2b0-400d1069c733",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "AOX, Adsorbable Organic Halides"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "aa4362e0-b20a-448b-b2a0-261f4510deb5",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ground-, long-term"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "adsorbable organic halogen"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "aox"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   }
+  ]
+ },
+ {
+  "@id": "46e6f5f7-6541-494f-a9bb-66918fb5d592",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "AOX, Adsorbable Organic Halides"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "65f8d2a1-63ed-479c-b86c-3bcf38e86320",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "ocean"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "adsorbable organic halogen"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "aox"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   }
+  ]
+ },
+ {
+  "@id": "e395a1a3-6915-4b72-a533-ff1a82fc3da1",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "AOX, Adsorbable Organic Halides"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "aox"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "adsorbable organic halogen"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "The ratio C fossil/C biogenic has been estimated to 50:50 using data concerning global material uses and mass flows (J.K. Steinberger et al., Ecological Economics, 2010, 69:1148\u20131158). Repartition of different fossil fuels was estimated using production volumes in ecoinvent v3."
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "The ratio C fossil/C biogenic has been estimated to 50:50 using data concerning global material uses and mass flows (J.K. Steinberger et al., Ecological Economics, 2010, 69:1148\u20131158). Repartition of different fossil fuels was estimated using production volumes in ecoinvent v3."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "a4f6341b-1762-4222-9024-bfd91f63588f",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "AOX, Adsorbable Organic Halides"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "aox"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "adsorbable organic halogen"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "water mass/dry mass"
+    }
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "The ratio C fossil/C biogenic has been estimated to 50:50 using data concerning global material uses and mass flows (J.K. Steinberger et al., Ecological Economics, 2010, 69:1148\u20131158). Repartition of different fossil fuels was estimated using production volumes in ecoinvent v3."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "The ratio C fossil/C biogenic has been estimated to 50:50 using data concerning global material uses and mass flows (J.K. Steinberger et al., Ecological Economics, 2010, 69:1148\u20131158). Repartition of different fossil fuels was estimated using production volumes in ecoinvent v3."
+    }
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   }
+  ]
+ },
+ {
+  "@id": "2d8c4ee6-4d14-4858-9b1d-680a115c4d9d",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C7H10N2",
+  "@casNumber": "000095-80-7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "2,4-Diaminotoluene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0825",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H10N2."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.229",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H10N2."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.688",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H10N2."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "5abdcd75-1d26-4e52-a9c6-5fe0e52baa8c",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C4H6O3",
+  "@casNumber": "000108-24-7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Acetic anhydride"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.47",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C4H6O3."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.471",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C4H6O3."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0592",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C4H6O3."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "12dde31e-f8d1-4300-be3e-859b918972ea",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C5H12O",
+  "@casNumber": "000075-85-4",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "2-Methyl-2-butanol"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.137",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C5H12O."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.681",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C5H12O."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.181",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C5H12O."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "e7505014-f2fe-4c77-b3ec-02cf5e5b6e4a",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C2H4O3",
+  "@casNumber": "000079-21-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Peracetic acid"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.316",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C2H4O3."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.631",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C2H4O3."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.053",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C2H4O3."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "1318785a-e5b1-4f42-a5b7-072333e37f91",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C3H7NO",
+  "@casNumber": "000068-12-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "N,N-Dimethylformamide"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0965",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C3H7NO."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.192",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C3H7NO."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.219",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C3H7NO."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.493",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C3H7NO."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "46b0ed21-8557-4a81-87cc-f099c573fbdb",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C7H7NO2",
+  "@casNumber": "000099-99-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "p-Nitrotoluene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "4-nitrotoluene"
+  },
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0515",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H7NO2."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.102",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H7NO2."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.233",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H7NO2."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.613",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H7NO2."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "05030b9e-2d09-4a54-89e6-7fdef2a9d294",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "CH3ONa",
+  "@casNumber": "000124-41-4",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Sodium methoxide"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "d3c0b420-1906-478c-8812-acfe6bf40c2e",
+    "@amount": "0.426",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula CH3ONa."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.222",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula CH3ONa."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.296",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula CH3ONa."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.056",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula CH3ONa."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "0e71868c-aab8-45aa-8495-1eb4698cc5a2",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "SCl2",
+  "@casNumber": "010545-99-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Sulfur dichloride"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.689",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula SCl2."
+    }
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "f6c7ebbb-902a-412f-a55b-0743aea00238",
+    "@amount": "0.311",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula SCl2."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "fdb18af3-1f6e-40f0-a599-b2b1b3d9c35f",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "SO3",
+  "@casNumber": "007446-11-9",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Sulfur trioxide"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "sulphuric anhydride"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "sulfan"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "sulphur trioxide"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "f6c7ebbb-902a-412f-a55b-0743aea00238",
+    "@amount": "0.401",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula SO3."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.599",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula SO3."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "1272f029-5d77-4c3d-9a26-6e989180f269",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C2H2ClO2Na",
+  "@casNumber": "003926-62-3",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Sodium chloroacetate"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.206",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C2H2ClO2Na."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0173",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C2H2ClO2Na."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.275",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C2H2ClO2Na."
+    }
+   },
+   {
+    "@propertyId": "d3c0b420-1906-478c-8812-acfe6bf40c2e",
+    "@amount": "0.197",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C2H2ClO2Na."
+    }
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.304",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C2H2ClO2Na."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "90214ec1-ed1c-4e96-9336-bb665baa9b5e",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C5H8O4",
+  "@casNumber": "000108-59-8",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Dimethyl malonate"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "propanedioic acid dimethyl ester"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "malonic acid dimethyl ester"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "dimethyl propanedioate"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.061",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C5H8O4."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.455",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C5H8O4."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.484",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C5H8O4."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "50e3609f-8af5-499e-9331-111172327691",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C7H14",
+  "@casNumber": "000108-87-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Methylcyclohexane"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.144",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H14."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.856",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H14."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "27780b11-a0ef-4a31-bbe0-a7e6c800fa97",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C7H7NO2",
+  "@casNumber": "000099-08-1",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "m-Nitrotoluene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "3-nitrotoluene"
+  },
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.613",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H7NO2."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.233",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H7NO2."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.102",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H7NO2."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0515",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H7NO2."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "e5f860da-0334-4be0-b6ae-969341e05a58",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "SOCl2",
+  "@casNumber": "07719-09-7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Thionyl chloride"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "7011f0aa-f5f9-4901-8c10-884ad8296812",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.134",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula SOCl2."
+    }
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.596",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula SOCl2."
+    }
+   },
+   {
+    "@propertyId": "f6c7ebbb-902a-412f-a55b-0743aea00238",
+    "@amount": "0.27",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula SOCl2."
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "fc733635-066a-41f0-a709-05eb2e192b0a",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C7H7NO2",
+  "@casNumber": "000088-72-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "o-Nitrotoluene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "1-methyl-2-nitrobenzene"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "ONT"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "2-nitrotoluene"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.233",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H7NO2."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.102",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H7NO2."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.613",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H7NO2."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0515",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H7NO2."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "5b1bd939-79af-4513-af34-5f532295744f",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C6H5ClO",
+  "@casNumber": "000095-57-8",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "2-Chlorophenol"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e47f0a6c-3be8-4027-9eee-de251784f708",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "2-Hydroxychlorobenzene"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "o-Chlorophenol"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.561",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C6H5ClO."
+    }
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.276",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C6H5ClO."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0392",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C6H5ClO."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.124",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C6H5ClO."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "3cfafbc5-f2d4-4edc-ace7-8f644f2418ce",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C8H6Cl2O3",
+  "@casNumber": "000094-75-7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "2,4-D"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "(2,4-dichlorophenoxy)acetic acid"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "2-(2,4-dichlorophenoxy)acetic acid"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.217",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H6Cl2O3."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0274",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H6Cl2O3."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.435",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H6Cl2O3."
+    }
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.321",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C8H6Cl2O3."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "c5d8f3f6-498f-4f66-b15c-9828516a70d4",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C22H19Cl2NO3",
+  "@casNumber": "067375-30-8",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Alpha-cypermethrin"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.635",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C22H19Cl2NO3."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.0336",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C22H19Cl2NO3."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.115",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C22H19Cl2NO3."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.046",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C22H19Cl2NO3."
+    }
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.17",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C22H19Cl2NO3."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "827c7522-41e9-490e-b48a-18c4276a707d",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C17H26ClNO3S",
+  "@casNumber": "099129-21-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Clethodim"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "f6c7ebbb-902a-412f-a55b-0743aea00238",
+    "@amount": "0.0891",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C17H26ClNO3S."
+    }
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.0985",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C17H26ClNO3S."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.567",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C17H26ClNO3S."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.0389",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C17H26ClNO3S."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0728",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C17H26ClNO3S."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.133",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C17H26ClNO3S."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "9f2eacee-64bc-48da-a506-fa9eb3d26116",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C17H13ClFNO4",
+  "@casNumber": "105512-06-9",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Clodinafop-propargyl"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "prop-2-ynyl (2R)-2-[4-(5-chloro-3-fluoropyridin-2-yl)oxyphenoxy]propanoate"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "prop-2-ynyl (R)-2-[4-(5-chloro-3-fluoropyridin-2-yloxy)phenoxypropionate"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0375",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C17H13ClFNO4."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.04",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C17H13ClFNO4."
+    }
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.101",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C17H13ClFNO4."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.584",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C17H13ClFNO4."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.183",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C17H13ClFNO4."
+    }
+   },
+   {
+    "@propertyId": "1f3c2d02-f345-4df9-ba6a-88cdeaa67923",
+    "@amount": "0.0543",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C17H13ClFNO4."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "35c3be63-5050-4adb-a379-ac429c12082e",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C17H13ClFNO4",
+  "@casNumber": "105512-06-9",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Clodinafop-propargyl"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "prop-2-ynyl (R)-2-[4-(5-chloro-3-fluoropyridin-2-yloxy)phenoxypropionate"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "prop-2-ynyl (2R)-2-[4-(5-chloro-3-fluoropyridin-2-yl)oxyphenoxy]propanoate"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.101",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C17H13ClFNO4."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.04",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C17H13ClFNO4."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.584",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C17H13ClFNO4."
+    }
+   },
+   {
+    "@propertyId": "1f3c2d02-f345-4df9-ba6a-88cdeaa67923",
+    "@amount": "0.0543",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C17H13ClFNO4."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0375",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C17H13ClFNO4."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.183",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C17H13ClFNO4."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "d7992d1c-65ec-4523-8b32-aef139acd1f5",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C9H11Cl3NO3PS",
+  "@casNumber": "002921-88-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Chlorpyrifos"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "chloropyriphos"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "chlorpyriphos"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "chloropyrifos"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.303",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C9H11Cl3NO3PS."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.308",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C9H11Cl3NO3PS."
+    }
+   },
+   {
+    "@propertyId": "97f3bbfe-fa3a-4d05-9cb6-bb4b6379c5ef",
+    "@amount": "0.0883",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C9H11Cl3NO3PS."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.137",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C9H11Cl3NO3PS."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.04",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C9H11Cl3NO3PS."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0316",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C9H11Cl3NO3PS."
+    }
+   },
+   {
+    "@propertyId": "f6c7ebbb-902a-412f-a55b-0743aea00238",
+    "@amount": "0.0915",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C9H11Cl3NO3PS."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "99eb5cdc-8c8a-45a7-8c5a-527773523984",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C6H3Cl2NO2",
+  "@casNumber": "001702-17-6",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Clopyralid"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "3,6-Dichloro-2-pyridinecarboxylic acid"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "3,6-dichloropicolinic acid"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0158",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C6H3Cl2NO2."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.073",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C6H3Cl2NO2."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.375",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C6H3Cl2NO2."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.167",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C6H3Cl2NO2."
+    }
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.369",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C6H3Cl2NO2."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "a338680a-ef8b-4f6d-baed-44c48666ebff",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Fungicides, unspecified"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "a81934c9-1e6f-4b56-b02d-b4ebcfed4f22",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C6H3Cl2NO2",
+  "@casNumber": "001702-17-6",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Clopyralid"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "3,6-dichloropicolinic acid"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "3,6-Dichloro-2-pyridinecarboxylic acid"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.375",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C6H3Cl2NO2."
+    }
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.369",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C6H3Cl2NO2."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0158",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C6H3Cl2NO2."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.167",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C6H3Cl2NO2."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.073",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C6H3Cl2NO2."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "822671bf-a774-41bb-a0ff-681e6a1adca3",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C9H10ClN5O2",
+  "@casNumber": "138261-41-3",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Imidacloprid"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "(NE)-N-[1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-ylidene]nitramide"
+  },
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.125",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C9H10ClN5O2."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.423",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C9H10ClN5O2."
+    }
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.139",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C9H10ClN5O2."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.274",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C9H10ClN5O2."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0394",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C9H10ClN5O2."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "eaebc656-c709-4f1a-ac00-52175d4adc96",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C19H11F5N2O2",
+  "@casNumber": "083164-33-4",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Diflufenican"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "2',4'-difluoro-2-(alpha,alpha,alpha-trifluoro-m-tolyloxy)nicotinanilide"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "N-(2,4-difluorophenyl)-2-[3-(trifluoromethyl)phenoxy]pyridine-3-carboxamide"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "1f3c2d02-f345-4df9-ba6a-88cdeaa67923",
+    "@amount": "0.241",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C19H11F5N2O2."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.071",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C19H11F5N2O2."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.0812",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C19H11F5N2O2."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0281",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C19H11F5N2O2."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.579",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C19H11F5N2O2."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "0d9f3c92-e80d-482f-b26a-403958eb21ac",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C19H11F5N2O2",
+  "@casNumber": "083164-33-4",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Diflufenican"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "N-(2,4-difluorophenyl)-2-[3-(trifluoromethyl)phenoxy]pyridine-3-carboxamide"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "2',4'-difluoro-2-(alpha,alpha,alpha-trifluoro-m-tolyloxy)nicotinanilide"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0281",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C19H11F5N2O2."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.071",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C19H11F5N2O2."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.579",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C19H11F5N2O2."
+    }
+   },
+   {
+    "@propertyId": "1f3c2d02-f345-4df9-ba6a-88cdeaa67923",
+    "@amount": "0.241",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C19H11F5N2O2."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.0812",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C19H11F5N2O2."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "f0291916-5714-485d-978a-0af7a9dc1000",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C18H22ClNO3",
+  "@casNumber": "099607-70-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Cloquintocet-mexyl"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "heptan-2-yl 2-(5-chloroquinolin-8-yl)oxyacetate"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "5-chlor-8-chinolinoxy-essigs\u00e4ure-1-methylhexylester"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.106",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H22ClNO3."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.066",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H22ClNO3."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.143",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H22ClNO3."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.0417",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H22ClNO3."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.644",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H22ClNO3."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "1d6fd69b-672f-43f2-86a9-13277f83f3cd",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C16H8Cl2FN5O",
+  "@casNumber": "136426-54-5",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Fluquinconazole"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "3-(2,4-dichlorophenyl)-6-fluoro-2-(1H-1,2,4-triazol-1-yl)quinazolin-4(3H)-one"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "3-(2,4-dichlorophenyl)-6-fluoro-2-(1,2,4-triazol-1-yl)quinazolin-4-one"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "1f3c2d02-f345-4df9-ba6a-88cdeaa67923",
+    "@amount": "0.0505",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C16H8Cl2FN5O."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.511",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C16H8Cl2FN5O."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0214",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C16H8Cl2FN5O."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.0425",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C16H8Cl2FN5O."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.186",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C16H8Cl2FN5O."
+    }
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.188",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C16H8Cl2FN5O."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "3ef8d99c-6595-46bf-9fe4-2335252eae15",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C7H5Cl2FN2O3",
+  "@casNumber": "069377-81-7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Fluroxypyr"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "4-amino-3,5-dichloro-6-fluoro-2-pyridyloxyacetic acid"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "2-(4-amino-3,5-dichloro-6-fluoropyridin-2-yl)oxyacetic acid"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.278",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H5Cl2FN2O3."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.188",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H5Cl2FN2O3."
+    }
+   },
+   {
+    "@propertyId": "1f3c2d02-f345-4df9-ba6a-88cdeaa67923",
+    "@amount": "0.0745",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H5Cl2FN2O3."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.11",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H5Cl2FN2O3."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.33",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H5Cl2FN2O3."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0198",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H5Cl2FN2O3."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "6dec3953-7373-4eef-81d1-bb93936f64c1",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C18H22ClNO3",
+  "@casNumber": "099607-70-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Cloquintocet-mexyl"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "heptan-2-yl 2-(5-chloroquinolin-8-yl)oxyacetate"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "5-chlor-8-chinolinoxy-essigs\u00e4ure-1-methylhexylester"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.644",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H22ClNO3."
+    }
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.106",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H22ClNO3."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.066",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H22ClNO3."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.0417",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H22ClNO3."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.143",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H22ClNO3."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "20722b05-fd1f-446d-b818-d0b05a520526",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C16H8Cl2FN5O",
+  "@casNumber": "136426-54-5",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Fluquinconazole"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "3-(2,4-dichlorophenyl)-6-fluoro-2-(1H-1,2,4-triazol-1-yl)quinazolin-4(3H)-one"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "3-(2,4-dichlorophenyl)-6-fluoro-2-(1,2,4-triazol-1-yl)quinazolin-4-one"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.188",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C16H8Cl2FN5O."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.511",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C16H8Cl2FN5O."
+    }
+   },
+   {
+    "@propertyId": "1f3c2d02-f345-4df9-ba6a-88cdeaa67923",
+    "@amount": "0.0505",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C16H8Cl2FN5O."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.0425",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C16H8Cl2FN5O."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0214",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C16H8Cl2FN5O."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.186",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C16H8Cl2FN5O."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "1b144479-3284-4cf1-9b17-2590940e656a",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Herbicides, unspecified"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "523ba331-0df7-4dee-aded-220a239f7755",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C7H5Cl2FN2O3",
+  "@casNumber": "069377-81-7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Fluroxypyr"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "4-amino-3,5-dichloro-6-fluoro-2-pyridyloxyacetic acid"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "2-(4-amino-3,5-dichloro-6-fluoropyridin-2-yl)oxyacetic acid"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.11",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H5Cl2FN2O3."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.188",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H5Cl2FN2O3."
+    }
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.278",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H5Cl2FN2O3."
+    }
+   },
+   {
+    "@propertyId": "1f3c2d02-f345-4df9-ba6a-88cdeaa67923",
+    "@amount": "0.0745",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H5Cl2FN2O3."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0198",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H5Cl2FN2O3."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.33",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H5Cl2FN2O3."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "5ba98eff-ca29-42cd-80b4-d978c98b901e",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C13H16F3N3O4",
+  "@casNumber": "001582-09-8",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Trifluralin"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "alpha,alpha,alpha,-trifluoro-2,6-dinitro-N,N-dipropyl-p-toluidine"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "2,6-dinitro-N,N-dipropyl-4-(trifluoromethyl)aniline"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "1f3c2d02-f345-4df9-ba6a-88cdeaa67923",
+    "@amount": "0.17",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C13H16F3N3O4."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0481",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C13H16F3N3O4."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.191",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C13H16F3N3O4."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.466",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C13H16F3N3O4."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.125",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C13H16F3N3O4."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "1a3b8231-71c6-4fb1-a2e8-1e1affe83fee",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C15H11ClF3NO4",
+  "@casNumber": "042874-03-3",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Oxyfluorfen"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "oxyfluorofen"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "2-chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0307",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C15H11ClF3NO4."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.498",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C15H11ClF3NO4."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.177",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C15H11ClF3NO4."
+    }
+   },
+   {
+    "@propertyId": "1f3c2d02-f345-4df9-ba6a-88cdeaa67923",
+    "@amount": "0.158",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C15H11ClF3NO4."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.0387",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C15H11ClF3NO4."
+    }
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.098",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C15H11ClF3NO4."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "4af69e93-b74b-4094-ab4f-4c24897f1e77",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C7H4Cl3NO3",
+  "@casNumber": "055335-06-3",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Triclopyr"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "[(3,5,6-trichloropyridin-2-yl)oxy]acetic acid"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "(3,5,6-Trichloro-2-pyridinyl)oxyacetic acid"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.187",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H4Cl3NO3."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0157",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H4Cl3NO3."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.328",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H4Cl3NO3."
+    }
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.415",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H4Cl3NO3."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.0546",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H4Cl3NO3."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "4557be4d-eaa3-4081-8e8b-c01fac155e43",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C14H15N5O6S",
+  "@casNumber": "074223-64-6",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Metsulfuron-methyl"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0396",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C14H15N5O6S."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.441",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C14H15N5O6S."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.252",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C14H15N5O6S."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.184",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C14H15N5O6S."
+    }
+   },
+   {
+    "@propertyId": "f6c7ebbb-902a-412f-a55b-0743aea00238",
+    "@amount": "0.0841",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C14H15N5O6S."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "1bb10fa8-d5c2-40df-87f6-e9aeec91d403",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C15H11ClF3NO4",
+  "@casNumber": "042874-03-3",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Oxyfluorfen"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "oxyfluorofen"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "2-chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "1f3c2d02-f345-4df9-ba6a-88cdeaa67923",
+    "@amount": "0.158",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C15H11ClF3NO4."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0307",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C15H11ClF3NO4."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.177",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C15H11ClF3NO4."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.0387",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C15H11ClF3NO4."
+    }
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.098",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C15H11ClF3NO4."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.498",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C15H11ClF3NO4."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "584642d8-ec5b-42d0-b09c-e5df918147fc",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C7H4Cl3NO3",
+  "@casNumber": "055335-06-3",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Triclopyr"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "(3,5,6-Trichloro-2-pyridinyl)oxyacetic acid"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "[(3,5,6-trichloropyridin-2-yl)oxy]acetic acid"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.328",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H4Cl3NO3."
+    }
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.415",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H4Cl3NO3."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.0546",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H4Cl3NO3."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0157",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H4Cl3NO3."
+    }
+   },
+   {
+    "@propertyId": "dbf41b1b-c7b8-4d5e-b39c-f858eb868df5",
+    "@amount": "0.187",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C7H4Cl3NO3."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "43a76088-d768-4807-b70b-049019c9b3f7",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C12H14N2+2",
+  "@casNumber": "004685-14-7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Paraquat"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "1,1-dimethyl-4,4-bipyridinium"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "1-methyl-4-(1-methylpyridin-1-ium-4-yl)pyridin-1-ium"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "1,1'-dimethyl-4,4'-bipyridinium"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.774",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C12H14N2+2."
+    }
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "0.15",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C12H14N2+2."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0758",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C12H14N2+2."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "34c02ca0-e1ad-45a6-858b-655c55edc2a8",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "N2",
+  "@casNumber": "007727-37-9",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Nitrogen"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "dinitrogen"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "molecular nitrogen"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "f53a5dbc-3bd3-4570-adff-b00790ea3ffc",
+    "@amount": "1",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula N2."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "1a5ef7d9-150d-4c9f-a709-fc2423a1d4db",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C3H4Cl2",
+  "@casNumber": "000542-75-6",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "1,3-Dichloropropene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e1bc9a16-5b6a-494f-98ef-49f461b1a11e",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "soil"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "agricultural"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "1,3-dichloroprop-1-ene"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "Dichloropropene"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.325",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C3H4Cl2."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0363",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C3H4Cl2."
+    }
+   },
+   {
+    "@propertyId": "66d4c921-658a-4ba0-b190-c6e09e57d74a",
+    "@amount": "0.639",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C3H4Cl2."
+    }
+   }
+  ],
+  "productInformation": null
+ },
+ {
+  "@id": "9bdbbff0-c8d6-4acb-9d8e-f833efb8261e",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C13H10",
+  "@casNumber": "86-73-7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Fluorene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "9H-Fluorene"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "9H-fluorene"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@variableName": "fluorene_C",
+    "@amount": "0.939",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C13H10."
+    }
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0",
+    "@isDefiningValue": "false"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0606",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C13H10."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "63efc54a-c59d-452b-b7de-d52b5c8deb7e",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C16H10",
+  "@casNumber": "206-44-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Fluoranthene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "1,2-Benzacenaphthene"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "Benzene, 1,2-(1,8-naphthalenediyl)-"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "1,2-(1,8-Naphthalenediyl)benzene"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "Benzo[j,k]fluorene"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0",
+    "@isDefiningValue": "false"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@variableName": "fluoranthene_C",
+    "@amount": "0.95",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C16H10."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0498",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C16H10."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "55b24735-f967-4cdd-8620-db67af975992",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C12H8",
+  "@casNumber": "000208-96-8",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Acenaphthylene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@variableName": "acenaphthylene_C",
+    "@amount": "0.947",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C12H8."
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.053",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C12H8."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "e006b18b-99aa-4e8e-a9ca-8a5269cfc005",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C14H10",
+  "@casNumber": "85-01-8",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Phenanthrene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "Phenanthracene"
+  },
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0",
+    "@isDefiningValue": "false"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@variableName": "phenanthrene_C",
+    "@amount": "0.943",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C14H10."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0566",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C14H10."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "6a767708-ccaa-461f-a81c-bb81333bd32a",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C14H10",
+  "@casNumber": "120-12-7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Anthracene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "Anthracen"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "Anthracin"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "Paranaphthalene"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "@isDefiningValue": "false"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0",
+    "@isDefiningValue": "false"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@variableName": "anthracene_C",
+    "@amount": "0.943",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C14H10."
+    }
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1",
+    "@isDefiningValue": "false"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0",
+    "@isDefiningValue": "false"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1",
+    "@isDefiningValue": "false"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0566",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C14H10."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "4239278c-5559-4b0d-80fc-702f6d8de310",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C10H8",
+  "@casNumber": "91-20-3",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Naphthalene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "Naphtalene"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "Bicyclo(4.4.0)deca-1,3,5,7,9-pentene"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.937",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C10H8."
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0",
+    "@isDefiningValue": "false"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0629",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C10H8."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "a321be47-24ba-45b0-8676-eec5636c9cdb",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C16H10",
+  "@casNumber": "129-00-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Pyrene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "benzo[def]phenanthrene"
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0",
+    "@isDefiningValue": "false"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@variableName": "pyrene_C",
+    "@amount": "0.95",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C16H10."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0498",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C16H10."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "7344d479-593d-459a-8eab-b3686ba8d6cd",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C20H12",
+  "@casNumber": "205-99-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Benzo(b)fluoranthene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@variableName": "benzoBfluoranthene_C",
+    "@amount": "0.952",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C20H12."
+    }
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0",
+    "@isDefiningValue": "false"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0479",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C20H12."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "4faa4d31-ffc8-4b5a-bdbc-6bda84133793",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C22H12",
+  "@casNumber": "191-24-2",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Benzo(ghi)perylene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0",
+    "@isDefiningValue": "false"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@variableName": "benzoGHIperylene_C",
+    "@amount": "0.956",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C22H12."
+    }
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0438",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C22H12."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "5a4f1f3d-6dda-4f61-b7ee-88ed61f2152a",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C18H12",
+  "@casNumber": "56-55-3",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Benz(a)anthracene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "Tetraphene"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "benzo[a]anthracene"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@variableName": "benzAanthracene_C",
+    "@amount": "0.947",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H12."
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0",
+    "@isDefiningValue": "false"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.053",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H12."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "1db03c4f-9724-4ea9-9d8d-10825f97da44",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C20H12",
+  "@casNumber": "207-08-9",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Benzo(k)fluoranthene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "benzo[k]fluoranthene"
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0",
+    "@isDefiningValue": "false"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@variableName": "benzoKfluoranthene_C",
+    "@amount": "0.952",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C20H12."
+    }
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0479",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C20H12."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "4db4cf1e-76af-486c-8e04-64c46770c818",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C22H14",
+  "@casNumber": "53-70-3",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Dibenz(a,h)anthracene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "naphtho[1,2-b]phenanthrene"
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@variableName": "dibenzAHanthracene_C",
+    "@amount": "0.949",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C22H14."
+    }
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0",
+    "@isDefiningValue": "false"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0507",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C22H14."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "e758fb1c-85dc-452c-b805-f3ec7e56b90d",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C22H12",
+  "@casNumber": "193-39-5",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Indeno(1,2,3-cd)pyrene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@variableName": "indeno123CDpyrene_C",
+    "@amount": "0.956",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C22H12."
+    }
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0",
+    "@isDefiningValue": "false"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.0438",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C22H12."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "59497991-195c-472f-b796-3fcc2dc901da",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C18H12",
+  "@casNumber": "218-01-9",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Chrysene"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "synonym": [
+   {
+    "@xml:lang": "en",
+    "#text": "1,2-Benzphenanthrene"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "1,2-Benzophenanthrene"
+   },
+   {
+    "@xml:lang": "en",
+    "#text": "Benzo(a)phenanthrene"
+   }
+  ],
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0",
+    "@isDefiningValue": "false"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@variableName": "chrysene_C",
+    "@amount": "0.947",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H12."
+    }
+   },
+   {
+    "@propertyId": "2d23d1bb-e137-4ade-83fc-fbd0421e6cd5",
+    "@amount": "0.053",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula C18H12."
+    }
+   }
+  ]
+ },
+ {
+  "@id": "ed9d969e-f77b-5f66-aa23-1b43ec0e9fa1",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Iodine"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "963f8022-3e2e-4be9-ad4d-b3b7a2282099",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "water"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "surface water"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "b3026066-b632-4c47-a27e-c13f4a3489fb",
+    "@amount": "1",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Elemental content on a dry matter basis, calculated for the formula I2."
+    }
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   }
+  ]
+ }
+]
