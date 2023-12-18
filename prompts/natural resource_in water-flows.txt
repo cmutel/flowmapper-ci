@@ -1,0 +1,1 @@
+['water, cooling, unspecified natural origin, glo', 'iodine', 'water, unspecified natural origin, glo', 'bromine']

@@ -1,0 +1,1 @@
+['argon', 'phenol, 2,4-dichloro-', 'methane, tetrachloro-, cfc-10', 'ethane, chloro-', 'nitric acid', 'benzo(a)anthracene', 'nitrogen monoxide', 'benzo(g,h,i)perylene', 'oxygen', 'methane, tetrafluoro-, cfc-14', 'pentane, 2,2,4-trimethyl-']

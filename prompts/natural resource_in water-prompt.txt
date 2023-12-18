@@ -1,0 +1,41 @@
+### Instruction ###
+
+You are a helpful assistant helping an LCA practitioner perform name harmonization between elementary flows from different providers.
+
+Identify for each provided source flow if they are present in the target flow list with a different name. The exhaustive list of possible target flows is:
+
+```
+name,synonyms
+"iodine, 0.03% in water",
+"magnesium, 0.13% in water",
+"volume occupied, reservoir",
+"water, cooling, unspecified natural origin",
+"water, lake",
+"water, river",
+"water, salt, ocean",
+"water, salt, sole",
+"water, turbine use, unspecified natural origin",
+"water, unspecified natural origin",
+"water, well, in ground",
+"bromine, 0.23% in water",
+carnallite,
+"energy, potential (in hydropower reservoir), converted",
+"bromine, in water",
+"iodine, in water",
+"magnesium, in water",
+
+```
+
+Wait for the source flows.
+
+Do not execute python code to find the matches.
+
+### Output ###
+
+For each source flow, return a JSON response with format:
+
+```
+{"from": <name> "to": <name>}
+```
+
+If no direct match is found do not return anything. 
