@@ -1,0 +1,254 @@
+[
+ {
+  "@id": "d22719d0-8afd-45d3-b9eb-222112f84cc7",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Fish, pelagic, in ocean"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "30347aef-a90b-46ba-8746-b53741aa779d",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "natural resource"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "in water"
+   }
+  },
+  "comment": {
+   "@xml:lang": "en",
+   "#text": "Pelagic fish in ocean, resource extracted by fisheries"
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0.429799802710732",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Average of 35 pelagic fish species, http://www.fao.org/wairdocs/tan/x5916e/x5916e01.htm"
+    }
+   },
+   {
+    "@propertyId": "8cd87c78-b43c-41be-9dfa-6dcc15bcb3c9",
+    "@variableName": "fishp_protein",
+    "@amount": "0.179",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Average of 35 pelagic fish species, http://www.fao.org/wairdocs/tan/x5916e/x5916e01.htm"
+    }
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Average of 35 pelagic fish species, http://www.fao.org/wairdocs/tan/x5916e/x5916e01.htm"
+    }
+   },
+   {
+    "@propertyId": "42cc9ae9-84ac-432b-b166-51a2f7cc9d93",
+    "@variableName": "fishp_fat",
+    "@amount": "0.07",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Average of 35 pelagic fish species, http://www.fao.org/wairdocs/tan/x5916e/x5916e01.htm"
+    }
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "0.570200197289268",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Average of 35 pelagic fish species, http://www.fao.org/wairdocs/tan/x5916e/x5916e01.htm"
+    }
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0.75377",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Average of 35 pelagic fish species, http://www.fao.org/wairdocs/tan/x5916e/x5916e01.htm"
+    }
+   },
+   {
+    "@propertyId": "6bc8ac5e-cc4c-45fb-93dc-53c0e45091df",
+    "@amount": "4.049",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Average of 35 pelagic fish species, http://www.fao.org/wairdocs/tan/x5916e/x5916e01.htm"
+    }
+   },
+   {
+    "@propertyId": "7c33fa83-dbc9-43c3-85c2-a5bdb058c37d",
+    "@variableName": "fishp_ash",
+    "@amount": "0.015",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Ash content of fish is between 1-2% of the edible portion, http://www.fao.org/wairdocs/tan/x5916e/x5916e01.htm"
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.476729",
+    "@isDefiningValue": "false",
+    "@mathematicalRelation": "(1-fishp_protein-fishp_fat-fishp_ash)*0.444+fishp_protein*0.535+fishp_fat*0.774",
+    "@isCalculatedAmount": "true",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Calculated from C_content = polysaccharids*0.444+protein*0.535+lipids*0.774 and polysaccharids = 1-(protein+lipids+ash)"
+    }
+   }
+  ],
+  "productInformation": {
+   "text": {
+    "@xml:lang": "en",
+    "@index": "1",
+    "#text": "Pelagic fish extracted from the ocean by fishing vessels (35 species).\nSome pelagic fish trophic level values (http://www.fishbase.org/):\n\nAnchoveta (Engraulis ringens): TL = 2.7 (Froese and Pauly 2011)\n, TL = 3.63 (H\u00fcckst\u00e4dt et al. 2007; Boissy et al. 2011)\n\nBigeye tuna (Thunnus obesus): TL = 4.5 (Froese and Pauly 2011)\n\n\nSkipjack tuna (Katsuwonus pelamis): TL = 3.8 (Froese and Pauly 2011)\n\n\nYellowfin tuna (Thunnus albacares): TL = 4.3 (Froese and Pauly 2011)"
+   }
+  }
+ },
+ {
+  "@id": "55219a64-a6ed-4675-9210-7ed14c82a05f",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Fish, demersal, in ocean"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "30347aef-a90b-46ba-8746-b53741aa779d",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "natural resource"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "in water"
+   }
+  },
+  "comment": {
+   "@xml:lang": "en",
+   "#text": "Demersal fish in ocean, resource extracted by fisheries"
+  },
+  "property": [
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "0.56397",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Average of 15 demersal fish species, http://www.fao.org/wairdocs/tan/x5916e/x5916e01.htm"
+    }
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0.43603",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Average of 15 demersal fish species, http://www.fao.org/wairdocs/tan/x5916e/x5916e01.htm"
+    }
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Average of 15 demersal fish species, http://www.fao.org/wairdocs/tan/x5916e/x5916e01.htm"
+    }
+   },
+   {
+    "@propertyId": "7c33fa83-dbc9-43c3-85c2-a5bdb058c37d",
+    "@variableName": "fishd_ash",
+    "@amount": "0.015",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Ash content of fish is between 1-2% of the edible portion, http://www.fao.org/wairdocs/tan/x5916e/x5916e01.htm"
+    }
+   },
+   {
+    "@propertyId": "6bc8ac5e-cc4c-45fb-93dc-53c0e45091df",
+    "@amount": "3.914",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Average of 15 demersal fish species, http://www.fao.org/wairdocs/tan/x5916e/x5916e01.htm"
+    }
+   },
+   {
+    "@propertyId": "8cd87c78-b43c-41be-9dfa-6dcc15bcb3c9",
+    "@variableName": "fishd_protein",
+    "@amount": "0.181",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Average of 15 demersal fish species, http://www.fao.org/wairdocs/tan/x5916e/x5916e01.htm"
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.466681",
+    "@isDefiningValue": "false",
+    "@mathematicalRelation": "(1-fishd_protein-fishd_fat-fishd_ash)*0.444+fishd_protein*0.535+fishd_fat*0.774",
+    "@isCalculatedAmount": "true",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Calculated from C_content = polysaccharids*0.444+protein*0.535+lipids*0.774 and polysaccharids = 1-(protein+lipids+ash)"
+    }
+   },
+   {
+    "@propertyId": "42cc9ae9-84ac-432b-b166-51a2f7cc9d93",
+    "@variableName": "fishd_fat",
+    "@amount": "0.039",
+    "@isDefiningValue": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Average of 15 demersal fish species, http://www.fao.org/wairdocs/tan/x5916e/x5916e01.htm"
+    }
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0.77316",
+    "@isDefiningValue": "false",
+    "@isCalculatedAmount": "false",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "Average of 15 demersal fish species, http://www.fao.org/wairdocs/tan/x5916e/x5916e01.htm"
+    }
+   }
+  ],
+  "productInformation": {
+   "text": {
+    "@xml:lang": "en",
+    "@index": "1",
+    "#text": "Demersal fish extracted from the ocean by fishing vessels (15 species).\nSome demersal fish trophic level values (http://www.fishbase.org/):\nPeruvian hake (Merluccius gayi peruanus): TL = 4.4 \u00b1 0.6 (Froese and Pauly 2014)"
+   }
+  }
+ }
+]

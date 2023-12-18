@@ -1,0 +1,124 @@
+[
+ {
+  "@id": "ffaaffd3-5deb-4508-9e5f-e47f551ac2b8",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Cyfluthrin"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "be7e06e9-0bf5-462e-99dc-fe4aee383c48",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "non-urban air or from high stacks"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.608294930875576"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "C22H18Cl2FNO3"
+    }
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "ccfd16db-cd24-4f68-a2f5-307c59db7990",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "venting of argon, crude, liquid"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "b12abab8-fee7-49c6-851e-965d0abad96f",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "social"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  }
+ },
+ {
+  "@id": "b2b828c4-0416-4ecb-b99a-4f1dc446d524",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "venting of nitrogen, liquid"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "b12abab8-fee7-49c6-851e-965d0abad96f",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "social"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  }
+ },
+ {
+  "@id": "2d91c47a-57a2-41f8-a541-4f931aca03bd",
+  "@unitId": "de5b3c87-0e35-4fb0-9765-4f3ba34c99e5",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "residual wood, dry"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "m3"
+  },
+  "compartment": {
+   "@subcompartmentId": "b12abab8-fee7-49c6-851e-965d0abad96f",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "social"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "unspecified"
+   }
+  }
+ }
+]

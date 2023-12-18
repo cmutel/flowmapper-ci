@@ -1,0 +1,33 @@
+### Instruction ###
+
+You are a helpful assistant helping an LCA practitioner perform name harmonization between elementary flows from different providers.
+
+Identify for each provided source flow if they are present in the target flow list with a different name. The exhaustive list of possible target flows is:
+
+```
+name,synonyms
+"peat, in ground",
+"wood, hard, standing",
+"wood, primary forest, standing",
+"wood, soft, standing",
+"wood, unspecified, standing",
+"energy, gross calorific value, in biomass",
+"energy, gross calorific value, in biomass, primary forest",
+"fish, pelagic, in ocean",
+"fish, demersal, in ocean",
+
+```
+
+Wait for the source flows.
+
+Do not execute python code to find the matches.
+
+### Output ###
+
+For each source flow, return a JSON response with format:
+
+```
+{"from": <name> "to": <name>}
+```
+
+If no direct match is found do not return anything. 

@@ -1,0 +1,313 @@
+[
+ {
+  "@id": "66a6dad0-e450-4206-88e1-f823a04f8b1d",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Haloxyfop- (R) Methylester"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "e1bc9a16-5b6a-494f-98ef-49f461b1a11e",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "soil"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "agricultural"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.498094498601008"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   }
+  ]
+ },
+ {
+  "@id": "43b2649e-26f8-400d-bc0a-a0667e850915",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Gangue, bauxite, in ground"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "6a098164-9f04-4f65-8104-ffab7f2677f3",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "natural resource"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "in ground"
+   }
+  },
+  "comment": {
+   "@xml:lang": "en",
+   "#text": "Gangue material extracted during bauxite extraction.  Represents total ore extracted minus aluminium and gallium content  of the ore, considered the two valuable resources contained in the ore.\nGangue material extracted during bauxite extraction.  Represents total ore extracted minus aluminium and gallium content  of the ore, considered the two valuable resources contained in the ore."
+  },
+  "property": [
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   }
+  ]
+ },
+ {
+  "@id": "05f6e226-0593-46f5-a788-01fa306e66ad",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@casNumber": "000630-08-0",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Carbon monoxide, from soil or biomass stock"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "6890faa1-312e-427d-9ca8-42309afc8866",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "indoor"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.428571428571429"
+   }
+  ]
+ },
+ {
+  "@id": "288c4e8a-d371-4bc1-b45b-c4b0cefd400e",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@casNumber": "000074-82-8",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Methane, from soil or biomass stock"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "6890faa1-312e-427d-9ca8-42309afc8866",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "indoor"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1",
+    "comment": {
+     "@xml:lang": "en",
+     "#text": "CH4"
+    }
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.75"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "5188df39-2bb8-4826-b469-fa9f86bacc09",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@casNumber": "000124-38-9",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Carbon dioxide, from soil or biomass stock"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "6890faa1-312e-427d-9ca8-42309afc8866",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "indoor"
+   }
+  },
+  "property": [
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0.272916486782489"
+   },
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   }
+  ]
+ },
+ {
+  "@id": "6abf9e1a-c33e-49ae-aeae-ab84cee7d2ab",
+  "@unitId": "487df68b-4994-4027-8fdc-a4dc298257b7",
+  "@formula": "C2H6O",
+  "@casNumber": "000115-10-6",
+  "name": {
+   "@xml:lang": "en",
+   "#text": "Dimethyl ether"
+  },
+  "unitName": {
+   "@xml:lang": "en",
+   "#text": "kg"
+  },
+  "compartment": {
+   "@subcompartmentId": "6890faa1-312e-427d-9ca8-42309afc8866",
+   "compartment": {
+    "@xml:lang": "en",
+    "#text": "air"
+   },
+   "subcompartment": {
+    "@xml:lang": "en",
+    "#text": "indoor"
+   }
+  },
+  "synonym": {
+   "@xml:lang": "en",
+   "#text": "methoxymethane"
+  },
+  "property": [
+   {
+    "@propertyId": "c74c3729-e577-4081-b572-a283d2561a75",
+    "@amount": "0.521434785704239"
+   },
+   {
+    "@propertyId": "67f102e2-9cb6-4d20-aa16-bf74d8a03326",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "6d9e1462-80e3-4f10-b3f4-71febd6f1168",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "3a0af1d6-04c3-41c6-a3da-92c4f61e0eaa",
+    "@amount": "1"
+   },
+   {
+    "@propertyId": "a9358458-9724-4f03-b622-106eda248916",
+    "@amount": "0"
+   },
+   {
+    "@propertyId": "6393c14b-db78-445d-a47b-c0cb866a1b25",
+    "@amount": "0"
+   }
+  ]
+ }
+]

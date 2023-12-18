@@ -3,4 +3,6 @@ xmltodict
 tomli >= 1.1.0 ; python_version < "3.11"
 jupyter
 pandas[output-formatting]
+jinja2
+tiktoken
 git+https://github.com/fjuniorr/flowmapper.git@main
