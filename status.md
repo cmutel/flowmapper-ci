@@ -9,8 +9,8 @@ and `data/ecoinvent-3.7-biosphere.json`.
 
     5667 source flows...
     4329 target flows...
-    3422 mappings (59.75% of total).
-    Mappings cardinalities: {'N:1': 1753, '1:1': 1598, 'N:M': 48, '1:N': 23}
+    3386 mappings (59.75% of total).
+    Mappings cardinalities: {'N:1': 1759, '1:1': 1627}
 
 ### simapro
 
@@ -53,15 +53,15 @@ and `data/ecoinvent-3.7-biosphere.json`.
 | air/low population density, long-term      |      65 |   325 |       0.2 |
 | soil/forestry                              |      10 |    45 |  0.222222 |
 | water/ocean                                |     108 |   279 |  0.387097 |
-| water/ground-                              |     138 |   300 |      0.46 |
+| water/ground-                              |     134 |   300 |  0.446667 |
 | air/urban air close to ground              |     204 |   334 |  0.610778 |
 | air/non-urban air or from high stacks      |     248 |   390 |  0.635897 |
+| water                                      |     199 |   312 |  0.637821 |
 | natural resource/in water                  |      11 |    17 |  0.647059 |
-| water                                      |     202 |   312 |  0.647436 |
 | natural resource/in air                    |       6 |     9 |  0.666667 |
 | natural resource/in ground                 |     156 |   232 |  0.672414 |
 | natural resource/land                      |     125 |   182 |  0.686813 |
-| soil/agricultural                          |     347 |   499 |  0.695391 |
+| soil/agricultural                          |     346 |   499 |  0.693387 |
 | air                                        |     260 |   366 |  0.710383 |
 | water/surface water                        |     240 |   310 |  0.774194 |
 | natural resource/biotic                    |       8 |     9 |  0.888889 |
@@ -75,8 +75,8 @@ Matching flows statistics between `data/industry-2.0-biosphere.json` and
 
     3618 source flows...
     4329 target flows...
-    2604 mappings (71.34% of total).
-    Mappings cardinalities: {'N:1': 1012, '1:1': 1546, '1:N': 18, 'N:M': 28}
+    2581 mappings (71.34% of total).
+    Mappings cardinalities: {'N:1': 1018, '1:1': 1563}
 
 ### simapro
 
@@ -117,18 +117,18 @@ Matching flows statistics between `data/industry-2.0-biosphere.json` and
 | soil/forestry                              |       2 |    45 | 0.0444444 |
 | air/lower stratosphere + upper troposphere |      22 |   325 | 0.0676923 |
 | air/low population density, long-term      |      41 |   325 |  0.126154 |
+| water/ground-                              |      53 |   300 |  0.176667 |
 | water/ground-, long-term                   |      50 |   268 |  0.186567 |
-| water/ground-                              |      58 |   300 |  0.193333 |
-| soil/agricultural                          |     178 |   499 |  0.356713 |
+| soil/agricultural                          |     177 |   499 |  0.354709 |
 | water/ocean                                |     103 |   279 |  0.369176 |
 | natural resource/in air                    |       4 |     9 |  0.444444 |
 | air/non-urban air or from high stacks      |     178 |   390 |   0.45641 |
 | natural resource/in water                  |       8 |    17 |  0.470588 |
 | natural resource/land                      |      99 |   182 |  0.543956 |
 | natural resource/in ground                 |     130 |   232 |  0.560345 |
-| air/urban air close to ground              |     192 |   334 |   0.57485 |
+| air/urban air close to ground              |     191 |   334 |  0.571856 |
 | natural resource/biotic                    |       6 |     9 |  0.666667 |
-| water                                      |     228 |   312 |  0.730769 |
+| water                                      |     225 |   312 |  0.721154 |
 | soil                                       |      40 |    54 |  0.740741 |
 | water/surface water                        |     230 |   310 |  0.741935 |
 | soil/industrial                            |      39 |    48 |    0.8125 |
