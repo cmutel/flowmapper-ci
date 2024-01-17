@@ -5,7 +5,7 @@ import typer
 
 def main(input, output):
     fields = read_field_mapping('config/simapro-ecoinvent.py')
-    source_flows = [Flow.from_dict(flow, fields['source']) for flow in read_flowlist(input)]
+    source_flows = [Flow(flow, fields['source']) for flow in read_flowlist(input)]
 
     result = [flow.raw for flow in set(source_flows)]
 
