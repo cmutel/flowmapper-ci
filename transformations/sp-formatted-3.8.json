@@ -1,0 +1,997 @@
+{
+  "name": "UVEK-2022-to-ecoinvent-3.9-elementary-flows",
+  "licenses": [
+    {
+      "name": "CC BY 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "version": "1.0.0",
+  "homepage": "https://github.com/romainsacchi/carculator",
+  "description": "Manual matching of UVEK 2022 to ecoinvent 3.9 elementary flows",
+  "created": "2023-03-24T10:44:58.971573",
+  "contributors": [
+    {
+      "title": "Chris Mutel",
+      "path": "https://chris.mutel.org/",
+      "role": "author"
+    }
+  ],
+  "create": [
+    {
+      "name": "TOC, Total Organic Carbon",
+      "unit": "kg",
+      "context": ["soil"]
+    },
+    {
+      "name": "Arsenic",
+      "unit": "kg",
+      "context": [
+        "water",
+        "ground-"
+      ]
+    },
+    {
+      "name": "Aluminium, resource correction",
+      "unit": "kg",
+      "context": [
+        "natural resource",
+        "in ground"
+      ]
+    },
+    {
+      "name": "Gravel, resource correction",
+      "unit": "kg",
+      "context": [
+        "natural resource",
+        "in ground"
+      ]
+    },
+    {
+      "name": "Tin, resource correction",
+      "unit": "kg",
+      "context": [
+        "natural resource",
+        "in ground"
+      ]
+    },
+    {
+      "name": "Copper, resource correction",
+      "unit": "kg",
+      "context": [
+        "natural resource",
+        "in ground"
+      ]
+    },
+    {
+      "name": "Thiazole, 2-(thiocyanatemethylthio)benzo-",
+      "unit": "kg",
+      "context": [
+        "soil",
+        "agricultural"
+      ]
+    },
+    {
+      "name": "Cyfluthrin",
+      "unit": "kg",
+      "context": [
+        "soil",
+        "agricultural"
+      ]
+    },
+    {
+      "name": "Benzene, dichloro-",
+      "unit": "kg",
+      "context": [
+        "air",
+        "urban air close to ground"
+      ]
+    }
+  ],
+  "update": [
+    {
+      "source": {
+        "name": "Occupation, water bodies, artificial"
+      },
+      "target": {
+        "name": "Occupation, river, artificial"
+      }
+    },
+    {
+      "source": {
+        "name": "Sulfites, SO3-"
+      },
+      "target": {
+        "name": "Sulfite"
+      }
+    },
+    {
+      "source": {
+        "name": "Active chlorine, Cl-"
+      },
+      "target": {
+        "name": "Chlorine"
+      }
+    },
+    {
+      "source": {
+        "name": "Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-"
+      },
+      "target": {
+        "name": "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin"
+      }
+    },
+    {
+      "source": {
+        "name": "Ammonium, NH4-N-"
+      },
+      "target": {
+        "name": "Ammonium, ion"
+      }
+    },
+    {
+      "source": {
+        "name": "Coal, hard"
+      },
+      "target": {
+        "name": "Coal, hard, unspecified"
+      }
+    },
+    {
+      "source": {
+        "name": "2,4-D, dimethylamine salt"
+      },
+      "target": {
+        "name": "2,4-D amines"
+      }
+    },
+    {
+      "source": {
+        "name": "Nitrogen, atmospheric"
+      },
+      "target": {
+        "name": "Nitrogen"
+      }
+    },
+    {
+      "source": {
+        "name": "Argon-40/kg"
+      },
+      "target": {
+        "name": "Argon-40"
+      }
+    },
+    {
+      "source": {
+        "name": "1-Butanol"
+      },
+      "target": {
+        "name": "Butanol"
+      }
+    },
+    {
+      "source": {
+        "name": "Metaldehyde (tetramer)"
+      },
+      "target": {
+        "name": "Metaldehyde"
+      }
+    },
+    {
+      "source": {
+        "name": "Roundup"
+      },
+      "target": {
+        "name": "Glyphosate",
+        "context": [
+          "air",
+          "non-urban air or from high stacks"
+        ]
+      }
+    },
+    {
+      "source": {
+        "name": "Sand"
+      },
+      "target": {
+        "name": "Sand, unspecified"
+      }
+    },
+    {
+      "source": {
+        "name": "Kaolin ore"
+      },
+      "target": {
+        "name": "Kaolinite, in ground"
+      }
+    },
+    {
+      "source": {
+        "name": "Sand, quartz"
+      },
+      "target": {
+        "name": "Sand, unspecified"
+      }
+    },
+    {
+      "source": {
+        "name": "Sodium sulfate"
+      },
+      "target": {
+        "name": "Sodium sulphate, various forms"
+      }
+    },
+    {
+      "source": {
+        "name": "Occupation, agriculture"
+      },
+      "target": {
+        "name": "Occupation, annual crop"
+      }
+    },
+    {
+      "source": {
+        "name": "Occupation, dump site, benthos"
+      },
+      "target": {
+        "name": "Occupation, seabed, unspecified"
+      }
+    },
+    {
+      "source": {
+        "name": "Occupation, forest, intensive, normal"
+      },
+      "target": {
+        "name": "Occupation, forest, intensive"
+      }
+    },
+    {
+      "source": {
+        "name": "Occupation, forest, intensive, short-cycle"
+      },
+      "target": {
+        "name": "Occupation, forest, intensive"
+      }
+    },
+    {
+      "source": {
+        "name": "Occupation, forest, used"
+      },
+      "target": {
+        "name": "Occupation, forest, intensive"
+      }
+    },
+    {
+      "source": {
+        "name": "Occupation, grassland/pasture/meadow"
+      },
+      "target": {
+        "name": "Occupation, pasture, man made"
+      }
+    },
+    {
+      "source": {
+        "name": "Occupation, industrial area, benthos"
+      },
+      "target": {
+        "name": "Occupation, seabed, unspecified"
+      }
+    },
+    {
+      "source": {
+        "name": "Occupation, industrial area, built up"
+      },
+      "target": {
+        "name": "Occupation, industrial area"
+      }
+    },
+    {
+      "source": {
+        "name": "Occupation, industrial area, vegetation"
+      },
+      "target": {
+        "name": "Occupation, industrial area"
+      }
+    },
+    {
+      "source": {
+        "name": "Occupation, permanent crop, fruit, intensive"
+      },
+      "target": {
+        "name": "Occupation, permanent crop, irrigated"
+      }
+    },
+    {
+      "source": {
+        "name": "Occupation, sea and ocean"
+      },
+      "target": {
+        "name": "Occupation, seabed, unspecified"
+      }
+    },
+    {
+      "source": {
+        "name": "Occupation, sea and ocean"
+      },
+      "target": {
+        "name": "Occupation, seabed, unspecified"
+      }
+    },
+    {
+      "source": {
+        "name": "Occupation, traffic area"
+      },
+      "target": {
+        "name": "Occupation, traffic area, road network"
+      }
+    },
+    {
+      "source": {
+        "name": "Occupation, traffic area, road embankment"
+      },
+      "target": {
+        "name": "Occupation, traffic area, road network"
+      }
+    },
+    {
+      "source": {
+        "name": "Occupation, unspecified, used"
+      },
+      "target": {
+        "name": "Occupation, unspecified"
+      }
+    },
+    {
+      "source": {
+        "name": "Occupation, water bodies, artificial"
+      },
+      "target": {
+        "name": "Occupation, river, artificial"
+      }
+    },
+    {
+      "source": {
+        "name": "Occupation, water courses, artificial"
+      },
+      "target": {
+        "name": "Occupation, river, artificial"
+      }
+    },
+    {
+      "source": {
+        "name": "Occupation, wetland"
+      },
+      "target": {
+        "name": "Occupation, inland waterbody, unspecified"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, from pasture and meadow, organic"
+      },
+      "target": {
+        "name": "Transformation, from pasture, man made, extensive"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to pasture and meadow, organic"
+      },
+      "target": {
+        "name": "Transformation, to pasture, man made, extensive"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, from arable, organic"
+      },
+      "target": {
+        "name": "Transformation, from arable land, unspecified use"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to arable, organic"
+      },
+      "target": {
+        "name": "Transformation, to arable land, unspecified use"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to industrial area, built up"
+      },
+      "target": {
+        "name": "Transformation, to industrial area",
+        "context": [
+          "natural resource",
+          "land"
+        ]
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, from agriculture"
+      },
+      "target": {
+        "name": "Transformation, from annual crop"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, from annual crop, non-irrigated, fallow"
+      },
+      "target": {
+        "name": "Transformation, from pasture, man made"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, from forest, intensive, clear-cutting"
+      },
+      "target": {
+        "name": "Transformation, from forest, intensive"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, from forest, used"
+      },
+      "target": {
+        "name": "Transformation, from forest, intensive"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, from grassland"
+      },
+      "target": {
+        "name": "Transformation, from grassland, natural (non-use)"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, from grassland/pasture/meadow"
+      },
+      "target": {
+        "name": "Transformation, from pasture, man made"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, from industrial area, benthos"
+      },
+      "target": {
+        "name": "Transformation, from seabed, unspecified"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, from industrial area, built up"
+      },
+      "target": {
+        "name": "Transformation, from industrial area"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, from industrial area, vegetation"
+      },
+      "target": {
+        "name": "Transformation, from industrial area"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, from permanent crop, fruit"
+      },
+      "target": {
+        "name": "Transformation, from permanent crop, irrigated"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, from tropical rain forest"
+      },
+      "target": {
+        "name": "Transformation, from forest, extensive"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, from unspecified, used"
+      },
+      "target": {
+        "name": "Transformation, from unspecified"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to agriculture"
+      },
+      "target": {
+        "name": "Transformation, to annual crop"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to annual crop, fallow"
+      },
+      "target": {
+        "name": "Transformation, to arable land, unspecified use"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to annual crop, non-irrigated, fallow"
+      },
+      "target": {
+        "name": "Transformation, to annual crop, non-irrigated, extensive"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to dump site, benthos"
+      },
+      "target": {
+        "name": "Transformation, to seabed, unspecified"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to forest, intensive, clear-cutting"
+      },
+      "target": {
+        "name": "Transformation, to forest, intensive"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to forest, intensive, normal"
+      },
+      "target": {
+        "name": "Transformation, to forest, intensive"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to forest, intensive, short-cycle"
+      },
+      "target": {
+        "name": "Transformation, to forest, intensive"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to forest, used"
+      },
+      "target": {
+        "name": "Transformation, to forest, intensive"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to grassland/pasture/meadow"
+      },
+      "target": {
+        "name": "Transformation, to pasture, man made"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to industrial area, benthos"
+      },
+      "target": {
+        "name": "Transformation, to seabed, unspecified"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to industrial area, built up"
+      },
+      "target": {
+        "name": "Transformation, to industrial area"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to industrial area, vegetation"
+      },
+      "target": {
+        "name": "Transformation, to industrial area"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to permanent crop, fruit, intensive"
+      },
+      "target": {
+        "name": "Transformation, to permanent crop, irrigated"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to sea and ocean"
+      },
+      "target": {
+        "name": "Transformation, to seabed, unspecified"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to traffic area, road embankment"
+      },
+      "target": {
+        "name": "Transformation, to traffic area, road network"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to unspecified, used"
+      },
+      "target": {
+        "name": "Transformation, to unspecified"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to urban/industrial fallow"
+      },
+      "target": {
+        "name": "Transformation, to industrial area"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to water bodies, artificial"
+      },
+      "target": {
+        "name": "Transformation, to river, artificial"
+      }
+    },
+    {
+      "source": {
+        "name": "Transformation, to water courses, artificial"
+      },
+      "target": {
+        "name": "Transformation, to river, artificial"
+      }
+    },
+    {
+      "source": {
+        "name": "Silver, Ag 9.7E-4%, Au 9.7E-4%, Zn 0.63%, Cu 0.38%, Pb 0.014%, in ore"
+      },
+      "target": {
+        "name": "Silver, Ag 9.7E-4%, in mixed ore"
+      }
+    },
+    {
+      "source": {
+        "name": "Rhodium, Rh 2.0E-5%, Pt 2.5E-4%, Pd 7.3E-4%, Ni 2.3E+0%, Cu 3.2E+0% in ore"
+      },
+      "target": {
+        "name": "Rhodium, Rh 1.6E-7%, in mixed ore"
+      }
+    },
+    {
+      "source": {
+        "name": "Rhodium, Rh 2.4E-5%, Pt 4.8E-4%, Pd 2.0E-4%, Ni 3.7E-2%, Cu 5.2E-2% in ore"
+      },
+      "target": {
+        "name": "Rhodium, Rh 1.6E-7%, in mixed ore"
+      }
+    },
+    {
+      "source": {
+        "name": "Platinum, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore"
+      },
+      "target": {
+        "name": "Platinum, Pt 4.7E-7%, in mixed ore"
+      }
+    },
+    {
+      "source": {
+        "name": "Platinum, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore"
+      },
+      "target": {
+        "name": "Platinum, Pt 4.7E-7%, in mixed ore"
+      }
+    },
+    {
+      "source": {
+        "name": "Palladium, Pd 2.0E-4%, Pt 4.8E-4%, Rh 2.4E-5%, Ni 3.7E-2%, Cu 5.2E-2% in ore"
+      },
+      "target": {
+        "name": "Palladium, Pd 1.6E-6%, in mixed ore"
+      }
+    },
+    {
+      "source": {
+        "name": "Palladium, Pd 7.3E-4%, Pt 2.5E-4%, Rh 2.0E-5%, Ni 2.3E+0%, Cu 3.2E+0% in ore"
+      },
+      "target": {
+        "name": "Palladium, Pd 1.6E-6%, in mixed ore"
+      }
+    },
+    {
+      "source": {
+        "name": "Copper, Cu 0.38%, Au 9.7E-4%, Ag 9.7E-4%, Zn 0.63%, Pb 0.014%, in ore"
+      },
+      "target": {
+        "name": "Copper, Cu 0.38%, in mixed ore"
+      }
+    },
+    {
+      "source": {
+        "name": "Copper, Cu 3.2E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0% in ore"
+      },
+      "target": {
+        "name": "Cu, Cu 3.2E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Ni 2.3E+0% in ore"
+      }
+    },
+    {
+      "source": {
+        "name": "Copper, Cu 5.2E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2% in ore"
+      },
+      "target": {
+        "name": "Cu, Cu 5.2E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Ni 3.7E-2% in ore"
+      }
+    },
+    {
+      "source": {
+        "name": "Gold, Au 9.7E-4%, Ag 9.7E-4%, Zn 0.63%, Cu 0.38%, Pb 0.014%, in ore"
+      },
+      "target": {
+        "name": "Gold, Au 9.7E-4%, in mixed ore"
+      }
+    },
+    {
+      "source": {
+        "name": "Lead, Pb 0.014%, Au 9.7E-4%, Ag 9.7E-4%, Zn 0.63%, Cu 0.38%, in ore"
+      },
+      "target": {
+        "name": "Lead, Pb 0.014%, in mixed ore"
+      }
+    },
+    {
+      "target": {
+        "name": "Nickel, Ni 2.5E+0%, in mixed ore"
+      },
+      "source": {
+        "name": "Nickel, Ni 2.3E+0%, Pt 2.5E-4%, Pd 7.3E-4%, Rh 2.0E-5%, Cu 3.2E+0% in ore"
+      }
+    },
+    {
+      "source": {
+        "name": "Nickel, Ni 3.7E-2%, Pt 4.8E-4%, Pd 2.0E-4%, Rh 2.4E-5%, Cu 5.2E-2% in ore"
+      },
+      "target": {
+        "name": "Nickel, Ni 2.5E+0%, in mixed ore"
+      }
+    },
+    {
+      "source": {
+        "name": "Gas, mine, off-gas, process, coal mining/m3",
+        "unit": "cubic meter",
+        "context": ["natural resource", "in ground"]
+      },
+      "target": {
+        "name": "Gas, mine, off-gas, process, coal mining",
+        "unit": "Sm3"
+      },
+      "conversion_factor": 1.0
+    },
+    {
+      "source": {
+        "name": "Gas, natural/m3",
+        "unit": "m3",
+        "context": ["natural resource", "in ground"]
+      },
+      "target": {
+        "name": "Gas, natural",
+        "unit": "Sm3"
+      },
+      "conversion_factor": 1.0
+    },
+    {
+      "source": {
+        "name": "Bromine",
+        "context": [
+          "natural resource",
+          "in water"
+        ]
+      },
+      "target": {
+        "name": "Bromine, 0.23% in water"
+      }
+    },
+    {
+      "source": {
+        "name": "Barite",
+        "context": [
+          "natural resource",
+          "in ground"
+        ]
+      },
+      "target": {
+        "name": "Barite, 15% in crude ore, in ground"
+      }
+    },
+    {
+      "source": {
+        "name": "Water (ersatz), net cons., non-irrigation, Europe without Switzerland",
+        "context": [
+          "natural resource",
+          "in water"
+        ]
+      },
+      "target": {
+        "name": "Water, unspecified natural origin",
+        "location": "Europe without Switzerland"
+      }
+    },
+    {
+      "source": {
+        "name": "Water (ersatz), net cons., non-irrigation, GLO",
+        "context": [
+          "natural resource"
+        ]
+      },
+      "target": {
+        "name": "Water, unspecified natural origin"
+      }
+    },
+    {
+      "source": {
+        "name": "Water, unspecified natural origin, CN",
+        "context": [
+          "natural resource",
+          "land"
+        ]
+      },
+      "target": {
+        "name": "Water, unspecified natural origin"
+      },
+      "location": "CN"
+    },
+    {
+      "source": {
+        "name": "Water, fresh, CN"
+      },
+      "target": {
+        "name": "Water, unspecified natural origin",
+        "context": [
+          "natural resource",
+          "in water"
+        ],
+        "location": "CN"
+      }
+    },
+    {
+      "source": {
+        "name": "Water (ersatz), net cons., non-irrigation, GLO",
+        "context": [
+          "natural resource"
+        ]
+      },
+      "target": {
+        "name": "Water, unspecified natural origin",
+        "context": [
+          "natural resource",
+          "in water"
+        ]
+      }
+    },
+    {
+      "source": {
+        "name": "Energy, geothermal"
+      },
+      "target": {
+        "name": "Energy, geothermal, converted"
+      }
+    },
+    {
+      "source": {
+        "name": "Energy, from wood"
+      },
+      "target": {
+        "name": "Energy, gross calorific value, in biomass, primary forest"
+      }
+    },
+    {
+      "source": {
+        "name": "Energy, from peat",
+        "unit": "MJ"
+      },
+      "target": {
+        "name": "Peat",
+        "unit": "kg"
+      },
+      "conversion_factor": 9.9,
+      "comment": "Conversion factor from ecoinvent 3.10 CED LCIA factors"
+    },
+    {
+      "source": {
+        "name": "Energy, from uranium",
+        "unit": "MJ"
+      },
+      "target": {
+        "name": "Uranium",
+        "unit": "kg"
+      },
+      "conversion_factor": 560000.0,
+      "comment": "Conversion factor from ecoinvent 3.10 CED LCIA factors"
+    },
+    {
+      "source": {
+        "name": "Energy, from coal, brown",
+        "unit": "MJ"
+      },
+      "target": {
+        "name": "Coal, brown",
+        "unit": "kg"
+      },
+      "conversion_factor": 9.9,
+      "comment": "Conversion factor from ecoinvent 3.10 CED LCIA factors"
+    },
+    {
+      "source": {
+        "name": "Energy, from gas, natural",
+        "unit": "MJ"
+      },
+      "target": {
+        "name": "Gas, natural",
+        "unit": "Sm3"
+      },
+      "conversion_factor": 40.3,
+      "comment": "Conversion factor from ecoinvent 3.10 CED LCIA factors"
+    },
+    {
+      "source": {
+        "name": "Energy, from oil sand (10% bitumen)",
+        "unit": "MJ"
+      },
+      "target": {
+        "name": "Oil, crude",
+        "unit": "kg"
+      },
+      "conversion_factor": 45.8,
+      "comment": "Conversion factor from ecoinvent 3.10 CED LCIA factors"
+    },
+    {
+      "source": {
+        "name": "Energy, from oil sand (100% bitumen)",
+        "unit": "MJ"
+      },
+      "target": {
+        "name": "Oil, crude",
+        "unit": "kg"
+      },
+      "conversion_factor": 45.8,
+      "comment": "Conversion factor from ecoinvent 3.10 CED LCIA factors"
+    },
+    {
+      "source": {
+        "name": "Energy, from hydro power"
+      },
+      "target": {
+        "name": "Energy, potential (in hydropower reservoir), converted"
+      },
+      "conversion_factor": 40.3,
+      "comment": "Conversion factor from ecoinvent 3.10 CED LCIA factors"
+    },
+    {
+      "source": {
+        "name": "Water (ersatz), net cons., non-irrigation, GLO",
+        "context": [
+          "natural resource",
+          "in water"
+        ]
+      },
+      "target": {
+        "name": "Water, unspecified natural origin"
+      }
+    }
+  ]
+}
